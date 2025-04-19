@@ -54,33 +54,8 @@
               "icon": "lucide-file",
               "title": "INBOX-下準備をコンテンツに変える"
             }
-          },
-          {
-            "id": "8eb29da83e166437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/INBOX-流体力学のラグランジュ方程式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "INBOX-流体力学のラグランジュ方程式"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8eb29da83e166437",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
-    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
+    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "README.md",
     "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",

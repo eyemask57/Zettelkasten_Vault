@@ -24,9 +24,11 @@ ID: INBOX-1745045973314
 - [[Navier–Stokesh方程式]]
 - [[Lagrange方程式]]
 - [[Hamilton方程式]]
+
 ## 保留・不明点（To Investigate）
 
-
+- 最新研究がどこまで進んでいるのかわからない．
+- 研究の力がまだない
 
 ---
 #Inbox #解析力学 #流体力学 #物理学

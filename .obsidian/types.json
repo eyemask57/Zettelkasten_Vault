@@ -10,6 +10,7 @@
     "著者": "multitext",
     "編者": "multitext",
     "訳者": "multitext",
-    "アクセス日": "date"
+    "アクセス日": "date",
+    "作成日": "datetime"
   }
 }

@@ -10,19 +10,7 @@ ID: INBOX-1745048215503
 ## 思いつき・直感（Raw Thought）
 
 - できる限りあらゆるものを効率的に面白いコンテンツにしたい
-- 準備
-
-## 方向性（Possible Note Types）
-
-
-
-## 関連しそうなノート（Related Ideas）
-
-
-
-## 保留・不明点（To Investigate）
-
-
+- 準備をうまくエンタメに整備すれば無駄がない
 
 ---
 #Inbox #未整理 

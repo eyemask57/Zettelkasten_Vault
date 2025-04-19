@@ -1,15 +1,16 @@
 ---
-作成日: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
-ID: INBOX-<% tp.date.now("x") %>
+作成日: 2025-04-19 16:36:55
+ID: INBOX-1745048215503
 重要度: 
 出典:
 ---
 
-# INBOX-<% tp.file.title %>
+# INBOX-下準備をコンテンツに変える
 
 ## 思いつき・直感（Raw Thought）
 
-
+- できる限りあらゆるものを効率的に面白いコンテンツにしたい
+- 
 
 ## 方向性（Possible Note Types）
 

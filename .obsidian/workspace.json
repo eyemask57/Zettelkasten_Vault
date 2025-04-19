@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-19.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-19"
+              "title": "README"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-19.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-19のアウトライン"
+              "title": "READMEのアウトライン"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "8e027b1987d287d9",
   "lastOpenFiles": [
+    "Logs/2025-04-19.md",
     "Inbox/流体力学のラグランジュ方程式.md",
     "_Templates/Theorem-template.md",
     "_Templates/Definition-template.md",
@@ -223,7 +224,6 @@
     "Inbox/20250419-1550-51.md",
     "無題のファイル.md",
     "Inbox/20250419-1550-36.md",
-    "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
     "pages",
     "_Resources_Paper",

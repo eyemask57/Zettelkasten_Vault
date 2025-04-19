@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27a18f5bb14cbbbb",
+        "id": "26ee96a52e385805",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad50b801b7c430f",
+            "id": "8e027b1987d287d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/20250419-1557-09.md",
+                "file": "Inbox/流体力学のラグランジュ方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250419-1557-09"
+              "title": "流体力学のラグランジュ方程式"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/20250419-1557-09.md",
+                "file": "Inbox/流体力学のラグランジュ方程式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250419-1557-09のアウトライン"
+              "title": "流体力学のラグランジュ方程式のアウトライン"
             }
           },
           {
@@ -205,25 +205,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ad50b801b7c430f",
+  "active": "8e027b1987d287d9",
   "lastOpenFiles": [
-    "_Templates/__Inbox-template.md",
-    "Inbox/20250419-1557-09.md",
-    "Inbox/20250419-1550-51.md",
-    "無題のファイル.md",
-    "README.md",
-    "Inbox/20250419-1550-36.md",
-    "Logs/2025-04-19.md",
-    "Logs/2025-04-18.md",
-    "_Templates/__Logs-template.md",
-    "_Templates/_!Resourse_Book_template.md",
-    "_Templates/_!Resourse_Paper_template.md",
     "_Templates/Theorem-template.md",
     "_Templates/Definition-template.md",
     "_Templates/!_Problem-template.md",
-    "_Templates/_Laws-template.md",
-    "_Templates/_Experiment-template.md",
     "_Templates/_model-template.md",
+    "_Templates/_Laws-template.md",
+    "_Templates/_!Resourse_Paper_template.md",
+    "_Templates/__Inbox-template.md",
+    "_Templates/__Logs-template.md",
+    "_Templates/_!Resourse_Book_template.md",
+    "Inbox/流体力学のラグランジュ方程式.md",
+    "_Templates/_Experiment-template.md",
+    "Inbox/20250419-1557-09.md",
+    "README.md",
+    "Inbox/20250419-1550-51.md",
+    "無題のファイル.md",
+    "Inbox/20250419-1550-36.md",
+    "Logs/2025-04-19.md",
+    "Logs/2025-04-18.md",
     "pages",
     "_Resources_Paper",
     "Inbox/20250419-1226-11.md",
@@ -234,7 +235,6 @@
     "Inbox/20250419-1123-24.md",
     "Inbox/無題のファイル.md",
     "Inbox/無題のファイル 1.md",
-    "2_Notes/無題のファイル.md",
     "LANGUAGE",
     "04_コンピュータ",
     "Notes",

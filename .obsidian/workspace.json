@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/20250419-1550-51.md",
+                "file": "Inbox/20250419-1557-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20250419-1550-51"
+              "title": "20250419-1557-09"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/20250419-1550-51.md",
+                "file": "Inbox/20250419-1557-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20250419-1550-51のアウトライン"
+              "title": "20250419-1557-09のアウトライン"
             }
           },
           {
@@ -208,8 +208,10 @@
   "active": "3ad50b801b7c430f",
   "lastOpenFiles": [
     "_Templates/__Inbox-template.md",
+    "Inbox/20250419-1557-09.md",
     "Inbox/20250419-1550-51.md",
     "無題のファイル.md",
+    "README.md",
     "Inbox/20250419-1550-36.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
@@ -235,8 +237,6 @@
     "2_Notes/無題のファイル.md",
     "LANGUAGE",
     "04_コンピュータ",
-    "_Templates/Computation-template.md",
-    "_Templates/概念・考察用.md",
     "Notes",
     "Logs",
     "Logs",

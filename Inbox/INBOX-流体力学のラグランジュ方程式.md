@@ -21,7 +21,7 @@ ID: INBOX-1745045973314
 
 ## 関連しそうなノート（Related Ideas）
 
-- [[Navier–Stokesh方程式]]
+- [[Navier–Stokes方程式]]
 - [[Lagrange方程式]]
 - [[Hamilton方程式]]
 

@@ -1,1 +1,1 @@
-自分のZettelkastenを公開しているだけです．
+自分のObsidianにおけるZettelkastenの実装と内容を公開しているだけです．

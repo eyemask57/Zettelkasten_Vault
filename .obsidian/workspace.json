@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/流体力学のラグランジュ方程式.md",
+                "file": "Logs/2025-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "流体力学のラグランジュ方程式"
+              "title": "2025-04-19"
             }
           }
         ]
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/流体力学のラグランジュ方程式.md",
+                "file": "Logs/2025-04-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流体力学のラグランジュ方程式のアウトライン"
+              "title": "2025-04-19のアウトライン"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "8e027b1987d287d9",
   "lastOpenFiles": [
+    "Inbox/流体力学のラグランジュ方程式.md",
     "_Templates/Theorem-template.md",
     "_Templates/Definition-template.md",
     "_Templates/!_Problem-template.md",
@@ -216,7 +217,6 @@
     "_Templates/__Inbox-template.md",
     "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",
-    "Inbox/流体力学のラグランジュ方程式.md",
     "_Templates/_Experiment-template.md",
     "Inbox/20250419-1557-09.md",
     "README.md",

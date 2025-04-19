@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "出典": "multitext",
+    "重要度": "number",
+    "分野": "text",
+    "分類": "multitext",
+    "著者": "multitext",
+    "編者": "multitext",
+    "訳者": "multitext",
+    "アクセス日": "date"
+  }
+}

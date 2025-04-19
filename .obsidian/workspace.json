@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "9b7ebdcce91851fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a18f5bb14cbbbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ad50b801b7c430f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5aaebab5cc92f03",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b2e7359ba405c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685a1d4f83d20f2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "4fa74f1c708eb949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "5afe59356a42e249",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "96eff0a3f043407b",
+    "type": "split",
+    "children": [
+      {
+        "id": "743c0a4b661f668e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3103cf3d7cb06cd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/2025-04-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-04-19へのバックリンク"
+            }
+          },
+          {
+            "id": "b4794c36036f503b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "82d3f648bc638437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b20adc161944cece",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logs/2025-04-19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-04-19のアウトライン"
+            }
+          },
+          {
+            "id": "8199a804e5319e3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "2ee29136391dd9c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:グラフビューを開く": false,
+      "random-note:ランダムノートを開く": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "publish:パブリッシュによる変更の公開": false,
+      "command-palette:コマンドパレットを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b20adc161944cece",
+  "lastOpenFiles": [
+    "Logs/2025-04-18.md",
+    "pages",
+    "Logs/2025-04-19.md",
+    "_Templates/__Inbox-template.md",
+    "_Templates/__Logs-template.md",
+    "_Templates/_!Resourse_Book_template.md",
+    "_Templates/_!Resourse_Paper_template.md",
+    "_Templates/_Experiment-template.md",
+    "_Templates/_Laws-template.md",
+    "_Templates/_model-template.md",
+    "_Templates/!_Problem-template.md",
+    "_Templates/Definition-template.md",
+    "_Templates/Theorem-template.md",
+    "_Resources_Paper",
+    "Inbox/20250419-1226-11.md",
+    "Inbox/20250419-1216-25.md",
+    "Inbox/Untitled.md",
+    "Inbox/20250419-1125-58.md",
+    "Inbox/Zettelkasten.md",
+    "Inbox/20250419-1123-24.md",
+    "Inbox/無題のファイル.md",
+    "Inbox/無題のファイル 1.md",
+    "2_Notes/無題のファイル.md",
+    "LANGUAGE",
+    "04_コンピュータ",
+    "_Templates/Computation-template.md",
+    "_Templates/概念・考察用.md",
+    "Logs/関連ノート1.md",
+    "202504181022.md",
+    "Notes",
+    "Logs",
+    "Logs",
+    "_Resources_Book",
+    "_Templates",
+    "3_Structure",
+    "無題のファイル.canvas"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "folder": "Logs",
+  "format": "YYYY-MM-DD",
+  "autorun": true,
+  "template": "_Templates/__Logs-template"
+}

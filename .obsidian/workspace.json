@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-                "mode": "preview",
+                "file": "_Resources_Book/工学教程 ベクトル解析.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "非圧縮性流れのNavier-Stokes方程式"
+              "title": "工学教程 ベクトル解析"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+                "file": "_Resources_Book/工学教程 ベクトル解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "非圧縮性流れのNavier-Stokes方程式のアウトライン"
+              "title": "工学教程 ベクトル解析のアウトライン"
             }
           },
           {
@@ -223,6 +223,8 @@
   },
   "active": "0cd720cc759c655a",
   "lastOpenFiles": [
+    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "README.md",
     "Logs/2025-04-21.md",
     "_Templates/__Logs-template.md",
@@ -242,9 +244,7 @@
     "_Resources_Book/考える力学 第2版.md",
     "_Resources_Book/測度・確率・ルベーグ積分.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
-    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Textbook/my_Text",
-    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Templates/!_Problem-template.md",
     "円座標系の非圧縮性流体.md",
     "_Templates/_Laws-template.md",

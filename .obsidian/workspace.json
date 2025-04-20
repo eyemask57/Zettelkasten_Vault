@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "26ee96a52e385805",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e027b1987d287d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-04-20.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-20"
-            }
-          }
-        ]
-      },
-      {
         "id": "6e5ef6e1e898aa60",
         "type": "tabs",
         "children": [
@@ -43,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Navier–Stokes方程式.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "Navier–Stokes方程式"
             }
           }
         ]
@@ -227,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -249,7 +219,7 @@
       "workspaces:ワークスペースレイアウトを管理": false
     }
   },
-  "active": "81bd25ba68e171b4",
+  "active": "2ee29136391dd9c9",
   "lastOpenFiles": [
     "Logs/2025-04-20.md",
     "Navier–Stokes方程式.md",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4617fccb4bb89f58",
+        "id": "d2b23adb180afdf5",
         "type": "tabs",
         "children": [
           {
-            "id": "c0aba380694c97e3",
+            "id": "cff16ab5249767bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "国際語エスペラント学習の多言語サイト"
-            }
-          },
-          {
-            "id": "98ac6e4f0200b398",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2025-04-21"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,12 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_Templates/__Logs-template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "__Logs-templateのアウトライン"
             }
           },
           {
@@ -212,10 +203,24 @@
                 "id": "79d55050254809b4",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Templates/__Logs-template.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "__Logs-template"
                 }
               }
             ]
@@ -231,14 +236,17 @@
       }
     ]
   },
-  "active": "98ac6e4f0200b398",
+  "active": "79d55050254809b4",
   "lastOpenFiles": [
-    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
+    "Logs/2025-04-21.md",
+    "Inbox/INBOX-位相と測度.md",
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
+    "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-20.md",
+    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "_Resources_PDF",
     "無題のファイル.md",
     "_Resources_WebPage",
-    "Inbox/INBOX-位相と測度.md",
     "_Templates/_Experiment-template.md",
     "_Templates/_!Resourse_Book_template.md",
     "_Templates/__Logs-template.md",
@@ -256,13 +264,10 @@
     "_Templates/_Laws-template.md",
     "_Templates/_model-template.md",
     "_Templates/_!Resourse_Paper_template.md",
-    "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
     "README.md",
     "Textbook/Round-robin",
-    "Henkin公理, Henkin定数.md",
     "ARCHIVE_Logs",
     "Textbook",
     "_Resources_Paper",

@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/_!Resourse_Paper_template.md",
+                "file": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_!Resourse_Paper_template"
+              "title": "量子力学を学ぶための解析力学入門 増補第2版"
             }
           }
         ]
@@ -149,7 +149,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -278,11 +279,11 @@
   },
   "active": "e7c6d175890778ce",
   "lastOpenFiles": [
+    "_Templates/_!Resourse_Paper_template.md",
     "_Templates/_!Resourse_Book_template.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/考える力学 第2版.md",
     "Logs/2025-04-20.md",
-    "_Templates/_!Resourse_Paper_template.md",
     "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
     "Inbox/INBOX-位相と測度.md",

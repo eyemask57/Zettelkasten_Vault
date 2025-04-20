@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "README"
             }
           }
         ]
@@ -109,6 +109,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b20adc161944cece",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "READMEのアウトライン"
+            }
+          },
+          {
             "id": "82d3f648bc638437",
             "type": "leaf",
             "state": {
@@ -121,21 +136,6 @@
               },
               "icon": "lucide-tags",
               "title": "タグ"
-            }
-          },
-          {
-            "id": "b20adc161944cece",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Logs/2025-04-21.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2025-04-21のアウトライン"
             }
           },
           {
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -221,10 +221,10 @@
       }
     ]
   },
-  "active": "685a1d4f83d20f2b",
+  "active": "0cd720cc759c655a",
   "lastOpenFiles": [
-    "_Templates/__Logs-template.md",
     "Logs/2025-04-21.md",
+    "_Templates/__Logs-template.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",

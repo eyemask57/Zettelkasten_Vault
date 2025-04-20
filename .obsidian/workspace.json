@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0d736ea1f46941",
+        "id": "a0916e6d65c07b60",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd720cc759c655a",
+            "id": "985a486fa2fd959e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources_Book/工学教程 ベクトル解析.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工学教程 ベクトル解析"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -161,6 +161,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ba0332f06adadd5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/2025-04-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-04-21へのバックリンク"
+            }
+          },
+          {
+            "id": "d2217b0912c12d03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/2025-04-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-04-21からのアウトゴーイングリンク"
+            }
           }
         ],
         "currentTab": 1
@@ -221,7 +254,7 @@
       }
     ]
   },
-  "active": "0cd720cc759c655a",
+  "active": "985a486fa2fd959e",
   "lastOpenFiles": [
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",

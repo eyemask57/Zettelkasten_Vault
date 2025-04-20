@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-21",
+      "path": "Logs/2025-04-21.md"
+    },
+    {
       "basename": "工学教程 ベクトル解析",
       "path": "_Resources_Book/工学教程 ベクトル解析.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2025-04-21",
-      "path": "Logs/2025-04-21.md"
     }
   ],
   "omittedPaths": [],

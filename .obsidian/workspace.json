@@ -94,8 +94,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,19 +170,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:グラフビューを開く": false,
       "random-note:ランダムノートを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-git:Open Git source control": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "publish:パブリッシュによる変更の公開": false,
-      "command-palette:コマンドパレットを開く": false,
-      "canvas:新規キャンバスを作成": false,
+      "templates:テンプレートを挿入": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "zk-prefixer:新規ユニークノートの作成": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "templates:テンプレートを挿入": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "workspaces:ワークスペースレイアウトを管理": false
+      "templater-obsidian:Templater": false
     }
   },
   "floating": {
@@ -224,6 +223,7 @@
   "active": "79d55050254809b4",
   "lastOpenFiles": [
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "Textbook/Round-robin",
     "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/_!Resourse_Book_template.md",
@@ -249,7 +249,6 @@
     "ARCHIVE_Logs",
     "無題のカンバン 1.md",
     "無題のカンバン 2.md",
-    "無題のカンバン.md",
     "Textbook",
     "_Resources_Paper",
     "LANGUAGE",
@@ -258,7 +257,6 @@
     "Logs",
     "Logs",
     "_Resources_Book",
-    "_Templates",
     "無題のファイル.canvas"
   ]
 }

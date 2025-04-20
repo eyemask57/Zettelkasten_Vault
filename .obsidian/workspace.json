@@ -13,44 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-20"
-            }
-          },
-          {
-            "id": "1162735775051b91",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lernu.net/",
-                "title": "国際語エスペラント学習の多言語サイト - lernu.net",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "国際語エスペラント学習の多言語サイト - lernu.net"
-            }
-          },
-          {
-            "id": "eb73d006d75100b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
                 "mode": "source",
                 "source": false,
@@ -69,8 +31,7 @@
               "title": "国際語エスペラント学習の多言語サイト"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +221,10 @@
       }
     ]
   },
-  "active": "eb73d006d75100b8",
+  "active": "c0aba380694c97e3",
   "lastOpenFiles": [
-    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "Logs/2025-04-20.md",
+    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "_Resources_PDF",
     "無題のファイル.md",
     "_Resources_WebPage",

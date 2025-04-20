@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b23adb180afdf5",
+        "id": "ef0d736ea1f46941",
         "type": "tabs",
         "children": [
           {
-            "id": "cff16ab5249767bd",
+            "id": "0cd720cc759c655a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/__Logs-template.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "__Logs-template"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,12 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/2025-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-04-21のアウトライン"
             }
           },
           {
@@ -221,7 +221,7 @@
       }
     ]
   },
-  "active": "79d55050254809b4",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
     "_Templates/__Logs-template.md",
     "Logs/2025-04-21.md",

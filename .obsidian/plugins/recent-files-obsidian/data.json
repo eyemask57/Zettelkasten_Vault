@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
-    },
-    {
-      "basename": "__Inbox-template",
-      "path": "_Templates/__Inbox-template.md"
-    },
-    {
-      "basename": "_!Resourse_Book_template",
-      "path": "_Templates/_!Resourse_Book_template.md"
-    },
-    {
-      "basename": "_!Resourse_Paper_template",
-      "path": "_Templates/_!Resourse_Paper_template.md"
+      "basename": "非圧縮性流れのNavier-Stokes方程式",
+      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
     },
     {
       "basename": "「集合と位相」をなぜ学ぶのか",
@@ -47,10 +35,6 @@
     {
       "basename": "INBOX-流体力学のラグラジアン",
       "path": "Inbox/INBOX-流体力学のラグラジアン.md"
-    },
-    {
-      "basename": "非圧縮性流れのNavier-Stokes方程式",
-      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
     },
     {
       "basename": "README",

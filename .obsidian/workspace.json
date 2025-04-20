@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Logs/2025-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "2025-04-18"
             }
           }
         ],
@@ -246,16 +246,17 @@
       }
     ]
   },
-  "active": "b2c6926b0e5e1d87",
+  "active": "79d55050254809b4",
   "lastOpenFiles": [
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
+    "Inbox/INBOX-流体力学のラグラジアン.md",
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-位相と測度.md",
+    "_Templates/__Logs-template.md",
     "README.md",
     "無題のファイル.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Inbox/INBOX-流体力学のラグラジアン.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Henkin公理, Henkin定数.md",
     "_Templates/Definition-template.md",
@@ -265,7 +266,6 @@
     "_Templates/_Experiment-template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "_Templates/_!Resourse_Book_template.md",
-    "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/Theorem-template.md",
     "ARCHIVE_Logs",

@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "__Hub-template",
+      "path": "_Templates/__Hub-template.md"
+    },
+    {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
       "basename": "非圧縮性流れのNavier-Stokes方程式",
       "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
     },
     {
-      "basename": "INBOX-流体力学のラグラジアン",
-      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
+      "basename": "!_Problem-template",
+      "path": "_Templates/!_Problem-template.md"
     },
     {
       "basename": "_Laws-template",
       "path": "_Templates/_Laws-template.md"
+    },
+    {
+      "basename": "_model-template",
+      "path": "_Templates/_model-template.md"
+    },
+    {
+      "basename": "_!Resourse_Paper_template",
+      "path": "_Templates/_!Resourse_Paper_template.md"
+    },
+    {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "INBOX-流体力学のラグラジアン",
+      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
     },
     {
       "basename": "2025-04-18",

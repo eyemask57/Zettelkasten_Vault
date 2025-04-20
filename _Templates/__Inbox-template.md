@@ -5,7 +5,7 @@ ID: INBOX-<% tp.date.now("x") %>
 出典:
 ---
 
-# INBOX-<% tp.file.title %>
+# <% tp.file.title %>
 
 ## 思いつき・直感（Raw Thought）
 

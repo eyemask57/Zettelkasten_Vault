@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navier–Stokes方程式.md",
+                "file": "Logs/2025-04-20.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Navier–Stokes方程式"
+              "title": "2025-04-20"
             }
           }
         ]
@@ -43,8 +43,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navier–Stokes方程式.md",
-                "mode": "preview",
+                "file": "Logs/2025-04-20.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Navier–Stokes方程式"
+              "title": "2025-04-20"
             }
           }
         ]
@@ -235,7 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Open: Smart Chat Conversation": false,
       "graph:グラフビューを開く": false,
       "random-note:ランダムノートを開く": false,
       "switcher:クイックスイッチャーを開く": false,
@@ -246,8 +245,6 @@
       "zk-prefixer:新規ユニークノートの作成": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "omnisearch:Omnisearch": false,
       "templates:テンプレートを挿入": false,
       "workspaces:ワークスペースレイアウトを管理": false
     }
@@ -256,10 +253,10 @@
   "lastOpenFiles": [
     "Logs/2025-04-20.md",
     "Navier–Stokes方程式.md",
+    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
-    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "_Templates/Definition-template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "Untitled.md",

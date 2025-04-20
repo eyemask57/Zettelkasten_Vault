@@ -1,5 +1,8 @@
 {
   "monospaceFontFamily": "Cica",
   "cssTheme": "Obsidian Nord",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "latex-style"
+  ]
 }

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "非圧縮性流れのNavier-Stokes方程式"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "非圧縮性流れのNavier-Stokes方程式のアウトライン"
             }
           },
           {
@@ -223,6 +223,7 @@
   },
   "active": "0cd720cc759c655a",
   "lastOpenFiles": [
+    "README.md",
     "Logs/2025-04-21.md",
     "_Templates/__Logs-template.md",
     "Inbox/INBOX-位相と測度.md",
@@ -251,7 +252,6 @@
     "_Templates/_!Resourse_Paper_template.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
-    "README.md",
     "Textbook/Round-robin",
     "ARCHIVE_Logs",
     "Textbook",

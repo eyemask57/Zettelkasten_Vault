@@ -19,3 +19,8 @@ Types
 To
 Henkin
 Possible
+kanban
+plugin
+project
+board
+settings

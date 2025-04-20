@@ -5,8 +5,6 @@
     "tags": "tags",
     "出典": "multitext",
     "重要度": "number",
-    "著者": "multitext",
-    "編者": "multitext",
     "訳者": "multitext",
     "アクセス日": "date",
     "作成日": "datetime",
@@ -19,6 +17,7 @@
     "雑誌名": "text",
     "出版社": "text",
     "出版年／月": "date",
-    "初版出版年": "number"
+    "初版出版年": "number",
+    "編集": "multitext"
   }
 }

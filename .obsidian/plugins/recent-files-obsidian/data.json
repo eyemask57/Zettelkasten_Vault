@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "_!Resourse_Paper_template",
+      "path": "_Templates/_!Resourse_Paper_template.md"
+    },
+    {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
       "basename": "量子力学を学ぶための解析力学入門 増補第2版",
       "path": "量子力学を学ぶための解析力学入門 増補第2版.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "2025-04-20",
       "path": "Logs/2025-04-20.md"
-    },
-    {
-      "basename": "__Inbox-template",
-      "path": "_Templates/__Inbox-template.md"
-    },
-    {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
     },
     {
       "basename": "INBOX-位相と測度",

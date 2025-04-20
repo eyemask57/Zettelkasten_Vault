@@ -70,7 +70,7 @@
               "state": {
                 "file": "量子力学を学ぶための解析力学入門 増補第2版.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Inbox/INBOX-流体力学のラグランジュ方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "INBOX-流体力学のラグランジュ方程式"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Inbox/INBOX-流体力学のラグランジュ方程式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-20のアウトライン"
+              "title": "INBOX-流体力学のラグランジュ方程式のアウトライン"
             }
           },
           {
@@ -231,14 +231,14 @@
   },
   "active": "8e027b1987d287d9",
   "lastOpenFiles": [
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
+    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
+    "Logs/2025-04-20.md",
     "_Templates/_!Resourse_Paper_template.md",
     "_Templates/Theorem-template.md",
     "Logs/2025-04-18.md",
-    "Logs/2025-04-20.md",
     "Logs/2025-04-19.md",
     "README.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "Navier–Stokesh方程式.md",
     "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",

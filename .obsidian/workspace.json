@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "非圧縮性流れのNavier-Stokes方程式"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Logs",
+                "query": "tag:#Navier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,13 +220,13 @@
       "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "4fc0d4e1c47463a9",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
+    "Logs/2025-04-20.md",
     "無題のカンバン 1.md",
     "無題のカンバン 2.md",
     "無題のカンバン.md",
-    "Notes/非圧縮性流れのNavier–Stokes方程式.md",
-    "Logs/2025-04-20.md",
+    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-流体力学のラグランジュ方程式.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Logs/2025-04-19.md",

@@ -1,10 +1,10 @@
 ---
 作成日: 2025-04-20 10:59
-ID: DEF-1745114373
+ID: LAW-1745114373
 出典:
 ---
 
-# 非圧縮性流れのNavier–Stokes方程式（Definition）
+# 非圧縮性流れのNavier-Stokes方程式（Definition）
 
 ## 内容（Definition）
 
@@ -30,4 +30,4 @@ $$
 
 
 ---
-#定義
+#定義 #流体力学 #Navier-Stokes方程式 

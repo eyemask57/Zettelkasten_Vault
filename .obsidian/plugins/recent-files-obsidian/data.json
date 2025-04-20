@@ -1,52 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "非圧縮性流れのNavier-Stokes方程式",
-      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
-    },
-    {
-      "basename": "「集合と位相」をなぜ学ぶのか",
-      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
-    },
-    {
-      "basename": "2025-04-20",
-      "path": "Logs/2025-04-20.md"
-    },
-    {
-      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
-      "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
-    },
-    {
-      "basename": "測度・確率・ルベーグ積分",
-      "path": "_Resources_Book/測度・確率・ルベーグ積分.md"
-    },
-    {
-      "basename": "考える力学 第2版",
-      "path": "_Resources_Book/考える力学 第2版.md"
-    },
-    {
-      "basename": "INBOX-位相と測度",
-      "path": "Inbox/INBOX-位相と測度.md"
-    },
-    {
-      "basename": "INBOX-下準備をコンテンツに変える",
-      "path": "Inbox/INBOX-下準備をコンテンツに変える.md"
-    },
-    {
-      "basename": "INBOX-流体力学のラグラジアン",
-      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "2025-04-18",
       "path": "Logs/2025-04-18.md"
     },
     {
       "basename": "2025-04-19",
       "path": "Logs/2025-04-19.md"
+    },
+    {
+      "basename": "2025-04-20",
+      "path": "Logs/2025-04-20.md"
+    },
+    {
+      "basename": "INBOX-流体力学のラグラジアン",
+      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
+    },
+    {
+      "basename": "INBOX-下準備をコンテンツに変える",
+      "path": "Inbox/INBOX-下準備をコンテンツに変える.md"
+    },
+    {
+      "basename": "INBOX-位相と測度",
+      "path": "Inbox/INBOX-位相と測度.md"
+    },
+    {
+      "basename": "「集合と位相」をなぜ学ぶのか",
+      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
+    },
+    {
+      "basename": "考える力学 第2版",
+      "path": "_Resources_Book/考える力学 第2版.md"
+    },
+    {
+      "basename": "測度・確率・ルベーグ積分",
+      "path": "_Resources_Book/測度・確率・ルベーグ積分.md"
+    },
+    {
+      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
+      "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
+    },
+    {
+      "basename": "_Experiment-template",
+      "path": "_Templates/_Experiment-template.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "非圧縮性流れのNavier-Stokes方程式",
+      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
     }
   ],
   "omittedPaths": [],

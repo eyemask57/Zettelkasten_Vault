@@ -59,6 +59,7 @@ Overview
 tp
 title
 template
+tikz
 date
 now
 YYYY

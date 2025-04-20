@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+                "file": "Logs/2025-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "非圧縮性流れのNavier-Stokes方程式"
+              "title": "2025-04-18"
             }
           }
         ]
@@ -129,12 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/2025-04-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-04-18のアウトライン"
             }
           },
           {
@@ -220,31 +221,31 @@
       }
     ]
   },
-  "active": "79d55050254809b4",
+  "active": "4fc0d4e1c47463a9",
   "lastOpenFiles": [
+    "Logs/2025-04-19.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-18.md",
+    "Inbox/INBOX-流体力学のラグラジアン.md",
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
+    "Inbox/INBOX-位相と測度.md",
+    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+    "_Resources_Book/考える力学 第2版.md",
+    "_Resources_Book/測度・確率・ルベーグ積分.md",
+    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
+    "_Templates/_Experiment-template.md",
+    "README.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Textbook/Round-robin",
     "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/_!Resourse_Book_template.md",
     "_Templates/_!Resourse_Paper_template.md",
-    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
-    "Logs/2025-04-20.md",
-    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
-    "_Resources_Book/測度・確率・ルベーグ積分.md",
-    "_Resources_Book/考える力学 第2版.md",
-    "Inbox/INBOX-位相と測度.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Inbox/INBOX-流体力学のラグラジアン.md",
-    "README.md",
-    "Logs/2025-04-18.md",
-    "Logs/2025-04-19.md",
     "Henkin公理, Henkin定数.md",
     "_Templates/Definition-template.md",
     "_Templates/!_Problem-template.md",
     "_Templates/_model-template.md",
     "_Templates/_Laws-template.md",
-    "_Templates/_Experiment-template.md",
     "_Templates/Theorem-template.md",
     "ARCHIVE_Logs",
     "無題のカンバン 1.md",

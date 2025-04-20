@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/INBOX-位相と測度.md",
+                "file": "Logs/2025-04-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INBOX-位相と測度"
+              "title": "2025-04-20"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,14 +246,14 @@
       }
     ]
   },
-  "active": "4fc0d4e1c47463a9",
+  "active": "b2c6926b0e5e1d87",
   "lastOpenFiles": [
+    "Inbox/INBOX-位相と測度.md",
+    "Logs/2025-04-20.md",
     "README.md",
     "無題のファイル.md",
     "Logs/2025-04-18.md",
-    "Logs/2025-04-20.md",
     "Logs/2025-04-19.md",
-    "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",

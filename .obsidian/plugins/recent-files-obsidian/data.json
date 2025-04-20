@@ -5,6 +5,10 @@
       "path": "Logs/2025-04-20.md"
     },
     {
+      "basename": "INBOX-位相と測度",
+      "path": "Inbox/INBOX-位相と測度.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2025-04-19",
       "path": "Logs/2025-04-19.md"
-    },
-    {
-      "basename": "INBOX-位相と測度",
-      "path": "Inbox/INBOX-位相と測度.md"
     },
     {
       "basename": "INBOX-下準備をコンテンツに変える",

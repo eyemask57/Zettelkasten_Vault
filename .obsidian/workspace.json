@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-18"
+              "title": "非圧縮性流れのNavier-Stokes方程式"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Logs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,8 +247,10 @@
       }
     ]
   },
-  "active": "79d55050254809b4",
+  "active": "4fa74f1c708eb949",
   "lastOpenFiles": [
+    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "README.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
@@ -255,9 +258,7 @@
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-位相と測度.md",
     "_Templates/__Logs-template.md",
-    "README.md",
     "無題のファイル.md",
-    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Henkin公理, Henkin定数.md",
     "_Templates/Definition-template.md",
     "_Templates/!_Problem-template.md",

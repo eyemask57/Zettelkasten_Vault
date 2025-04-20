@@ -1,4 +1,5 @@
 {
   "openExternalURLs": true,
-  "enableAdblocking": true
+  "enableAdblocking": true,
+  "markdownPath": "_Resources_WebPage"
 }

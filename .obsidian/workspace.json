@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources_Book/工学教程 ベクトル解析.md",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,27 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "工学教程 ベクトル解析"
+              "title": "非圧縮性流れのNavier-Stokes方程式"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "de3d5f9dc05a39a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d1a4e3996d4fcf",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#流体力学",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +135,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Resources_Book/工学教程 ベクトル解析.md",
+                "file": "Notes/非圧縮性流れのNavier-Stokes方程式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工学教程 ベクトル解析のアウトライン"
+              "title": "非圧縮性流れのNavier-Stokes方程式のアウトライン"
             }
           },
           {
@@ -248,10 +265,10 @@
   },
   "active": "9385d7f6bda4f582",
   "lastOpenFiles": [
+    "_Resources_Book/工学教程 ベクトル解析.md",
     "_Resources_Book/考える力学 第2版.md",
     "_Resources_Book/測度・確率・ルベーグ積分.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
-    "_Resources_Book/工学教程 ベクトル解析.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",

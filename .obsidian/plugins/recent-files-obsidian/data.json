@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "_!Resourse_Paper_template",
+      "path": "_Templates/_!Resourse_Paper_template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
+    },
+    {
+      "basename": "考える力学 第2版",
+      "path": "_Resources_Book/考える力学 第2版.md"
+    },
+    {
       "basename": "2025-04-20",
       "path": "Logs/2025-04-20.md"
     },

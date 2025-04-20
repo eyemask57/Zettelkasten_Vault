@@ -1,6 +1,8 @@
 GitHub
 Logs
 ID
+INBOX
+Inbox
 DEF
 Definition
 Navier
@@ -8,3 +10,6 @@ Notes
 Stokes
 Examples
 Related
+Raw
+Thought
+Henkin

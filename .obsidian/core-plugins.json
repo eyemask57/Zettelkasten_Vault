@@ -10,10 +10,10 @@
   "properties": true,
   "page-preview": true,
   "daily-notes": true,
-  "templates": false,
+  "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
@@ -23,9 +23,9 @@
   "word-count": true,
   "slides": true,
   "audio-recorder": false,
-  "workspaces": false,
+  "workspaces": true,
   "file-recovery": true,
   "publish": true,
   "sync": true,
-  "webviewer": false
+  "webviewer": true
 }

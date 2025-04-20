@@ -54,21 +54,14 @@
               "icon": "lucide-file",
               "title": "考える力学 第2版"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9eb8b8d21caa7383",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e7c6d175890778ce",
+            "id": "3c7c3f95d74d18d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
+                "file": "測度・確率・ルベーグ積分.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "量子力学を学ぶための解析力学入門 増補第2版"
+              "title": "測度・確率・ルベーグ積分"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,12 +271,13 @@
       }
     ]
   },
-  "active": "e7c6d175890778ce",
+  "active": "3c7c3f95d74d18d2",
   "lastOpenFiles": [
+    "測度・確率・ルベーグ積分.md",
+    "_Resources_Book/考える力学 第2版.md",
+    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Templates/_!Resourse_Paper_template.md",
     "_Templates/_!Resourse_Book_template.md",
-    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
-    "_Resources_Book/考える力学 第2版.md",
     "Logs/2025-04-20.md",
     "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
@@ -305,7 +300,6 @@
     "無題のカンバン 2.md",
     "無題のカンバン.md",
     "Untitled.md",
-    "Navier–Stokesh方程式.md",
     "Textbook",
     "_Resources_Paper",
     "LANGUAGE",

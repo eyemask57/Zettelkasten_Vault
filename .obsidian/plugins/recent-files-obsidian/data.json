@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
-    },
-    {
       "basename": "2025-04-21",
       "path": "Logs/2025-04-21.md"
+    },
+    {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
     }
   ],
   "omittedPaths": [],

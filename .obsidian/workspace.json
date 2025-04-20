@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/__Logs-template.md",
+                "file": "Logs/2025-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "__Logs-templateのアウトライン"
+              "title": "2025-04-21のアウトライン"
             }
           },
           {
@@ -227,8 +227,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -1199,
-        "y": 184,
+        "x": -1071,
+        "y": 213,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -236,8 +236,9 @@
       }
     ]
   },
-  "active": "79d55050254809b4",
+  "active": "cff16ab5249767bd",
   "lastOpenFiles": [
+    "_Templates/__Logs-template.md",
     "Logs/2025-04-21.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
@@ -249,7 +250,6 @@
     "_Resources_WebPage",
     "_Templates/_Experiment-template.md",
     "_Templates/_!Resourse_Book_template.md",
-    "_Templates/__Logs-template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/__Hub-template.md",
     "_Resources_Book/工学教程 ベクトル解析.md",

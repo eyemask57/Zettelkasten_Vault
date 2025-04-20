@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "Logs/2025-04-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "2025-04-19"
             }
           }
         ],
@@ -248,8 +248,8 @@
   },
   "active": "b2c6926b0e5e1d87",
   "lastOpenFiles": [
-    "Inbox/INBOX-位相と測度.md",
     "Logs/2025-04-20.md",
+    "Inbox/INBOX-位相と測度.md",
     "README.md",
     "無題のファイル.md",
     "Logs/2025-04-18.md",

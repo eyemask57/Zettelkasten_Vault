@@ -11,7 +11,7 @@ ISBN:
 ID: RFB-<% tp.date.now("X") %>
 ---
 ```bibtex
-@book{<% tp.date.now("YYYY") %>_<% tp.file.title.replace(" ", "_") %>,
+@book{<% tp.file.title.replace(" ", "_") %>,
   author       = {},            % 著者（姓, 名 and ...）
   title        = {<% tp.file.title %>},
   subtitle     = {},

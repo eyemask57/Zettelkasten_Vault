@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/_!Resourse_Book_template.md",
+                "file": "_Resources_Book/考える力学 第2版.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_!Resourse_Book_template"
+              "title": "考える力学 第2版"
             }
           }
         ],
@@ -248,6 +248,7 @@
   },
   "active": "6213f3aa57dd025a",
   "lastOpenFiles": [
+    "_Templates/_!Resourse_Book_template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/__Logs-template.md",
@@ -266,7 +267,6 @@
     "_Templates/_model-template.md",
     "_Templates/_Laws-template.md",
     "_Templates/_Experiment-template.md",
-    "_Templates/_!Resourse_Book_template.md",
     "_Templates/Theorem-template.md",
     "ARCHIVE_Logs",
     "無題のカンバン 1.md",

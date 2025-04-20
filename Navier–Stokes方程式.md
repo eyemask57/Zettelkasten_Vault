@@ -12,7 +12,7 @@ $$
 \begin{align}
 \nabla \cdot \boldsymbol{v} = 0, \quad
 \frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v}), \quad
-\nu = \frac{\mu}{\rho} \\
+\nu = \frac{\mu}{\rho} 
 
 \frac{\partial\boldsymbol{v}}{\partial t} + (\boldsymbol{})
 \end{align}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "「集合と位相」をなぜ学ぶのか.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "「集合と位相」をなぜ学ぶのか"
             }
           }
         ]
@@ -58,6 +58,16 @@
             }
           },
           {
+            "id": "2ea76eb54c036773",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
             "id": "4fa74f1c708eb949",
             "type": "leaf",
             "state": {
@@ -82,16 +92,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "ブックマーク"
-            }
-          },
-          {
-            "id": "2ea76eb54c036773",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ],
@@ -130,13 +130,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「集合と位相」をなぜ学ぶのか.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "「集合と位相」をなぜ学ぶのかのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -222,7 +221,7 @@
       }
     ]
   },
-  "active": "8199a804e5319e3d",
+  "active": "79d55050254809b4",
   "lastOpenFiles": [
     "「集合と位相」をなぜ学ぶのか.md",
     "Logs/2025-04-20.md",

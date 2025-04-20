@@ -17,7 +17,7 @@
     "雑誌名": "text",
     "出版社": "text",
     "出版年／月": "date",
-    "初版出版年": "number",
-    "編集": "multitext"
+    "編集": "multitext",
+    "初刷出版年": "number"
   }
 }

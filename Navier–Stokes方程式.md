@@ -8,8 +8,12 @@ ID: DEF-1745114373
 
 ## 内容（Definition）
 
-$$\require{bm}
-\nabla \cdot\bm{v} = 0
+$$
+\begin{align}
+\nabla \cdot \boldsymbol{v} = 0, \quad
+\frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v}) \\
+
+\end{align}
 $$
 
 ## 例・補足（Examples / Notes）

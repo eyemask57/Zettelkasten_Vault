@@ -1,4 +1,8 @@
 [
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax",
+  "recent-files-obsidian",
+  "obsidian-latex-suite",
+  "folder-notes"
 ]

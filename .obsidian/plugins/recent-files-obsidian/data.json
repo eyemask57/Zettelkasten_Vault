@@ -1,52 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "__Hub-template",
-      "path": "_Templates/__Hub-template.md"
+      "basename": "2025-04-20",
+      "path": "Logs/2025-04-20.md"
     },
     {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
-    },
-    {
-      "basename": "__Inbox-template",
-      "path": "_Templates/__Inbox-template.md"
-    },
-    {
-      "basename": "非圧縮性流れのNavier-Stokes方程式",
-      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
-    },
-    {
-      "basename": "!_Problem-template",
-      "path": "_Templates/!_Problem-template.md"
-    },
-    {
-      "basename": "_Laws-template",
-      "path": "_Templates/_Laws-template.md"
-    },
-    {
-      "basename": "_model-template",
-      "path": "_Templates/_model-template.md"
-    },
-    {
-      "basename": "_!Resourse_Paper_template",
-      "path": "_Templates/_!Resourse_Paper_template.md"
-    },
-    {
-      "basename": "_!Resourse_Book_template",
-      "path": "_Templates/_!Resourse_Book_template.md"
-    },
-    {
-      "basename": "INBOX-流体力学のラグラジアン",
-      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
-    },
-    {
-      "basename": "2025-04-18",
-      "path": "Logs/2025-04-18.md"
-    },
-    {
-      "basename": "_Experiment-template",
-      "path": "_Templates/_Experiment-template.md"
+      "basename": "INBOX-位相と測度",
+      "path": "Inbox/INBOX-位相と測度.md"
     },
     {
       "basename": "工学教程 ベクトル解析",
@@ -69,20 +29,24 @@
       "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
     },
     {
+      "basename": "非圧縮性流れのNavier-Stokes方程式",
+      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
+    },
+    {
+      "basename": "INBOX-流体力学のラグラジアン",
+      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
+    },
+    {
+      "basename": "2025-04-18",
+      "path": "Logs/2025-04-18.md"
+    },
+    {
       "basename": "2025-04-19",
       "path": "Logs/2025-04-19.md"
     },
     {
-      "basename": "2025-04-20",
-      "path": "Logs/2025-04-20.md"
-    },
-    {
       "basename": "INBOX-下準備をコンテンツに変える",
       "path": "Inbox/INBOX-下準備をコンテンツに変える.md"
-    },
-    {
-      "basename": "INBOX-位相と測度",
-      "path": "Inbox/INBOX-位相と測度.md"
     },
     {
       "basename": "README",

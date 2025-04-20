@@ -1,5 +1,5 @@
 ---
-ID: HUB-<% tp.date.now("x") %>
+ID: HUB-<% tp.date.now("X") %>
 ---
 
 # <% tp.file.title %>

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/__Hub-template.md",
+                "file": "Logs/2025-04-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "__Hub-template"
+              "title": "2025-04-20"
             }
           }
         ]
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/__Hub-template.md",
+                "file": "Logs/2025-04-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "__Hub-templateのアウトライン"
+              "title": "2025-04-20のアウトライン"
             }
           },
           {
@@ -223,33 +223,33 @@
   },
   "active": "c0aba380694c97e3",
   "lastOpenFiles": [
+    "Inbox/INBOX-位相と測度.md",
+    "_Templates/_Experiment-template.md",
+    "_Templates/_!Resourse_Book_template.md",
     "_Templates/__Logs-template.md",
-    "_Templates/__Hub-template.md",
     "_Templates/__Inbox-template.md",
+    "_Templates/__Hub-template.md",
+    "_Resources_Book/工学教程 ベクトル解析.md",
+    "_Resources_Book/考える力学 第2版.md",
+    "_Resources_Book/測度・確率・ルベーグ積分.md",
+    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
+    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+    "Textbook/my_Text",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Templates/!_Problem-template.md",
     "円座標系の非圧縮性流体.md",
     "_Templates/_Laws-template.md",
     "_Templates/_model-template.md",
     "_Templates/_!Resourse_Paper_template.md",
-    "_Templates/_!Resourse_Book_template.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-18.md",
-    "_Templates/_Experiment-template.md",
-    "_Resources_Book/工学教程 ベクトル解析.md",
-    "_Resources_Book/考える力学 第2版.md",
-    "_Resources_Book/測度・確率・ルベーグ積分.md",
-    "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
-    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Inbox/INBOX-位相と測度.md",
     "README.md",
     "Textbook/Round-robin",
     "Henkin公理, Henkin定数.md",
     "_Templates/Definition-template.md",
-    "_Templates/Theorem-template.md",
     "ARCHIVE_Logs",
     "Textbook",
     "_Resources_Paper",
@@ -258,7 +258,6 @@
     "Notes",
     "Logs",
     "Logs",
-    "_Resources_Book",
     "無題のファイル.canvas"
   ]
 }

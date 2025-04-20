@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-18"
+              "title": "README"
             }
           },
           {
@@ -247,13 +247,14 @@
   },
   "active": "4fc0d4e1c47463a9",
   "lastOpenFiles": [
+    "無題のファイル.md",
+    "README.md",
+    "Logs/2025-04-18.md",
     "Logs/2025-04-20.md",
     "Logs/2025-04-19.md",
-    "Logs/2025-04-18.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
-    "無題のファイル.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Henkin公理, Henkin定数.md",
     "_Templates/Definition-template.md",
@@ -271,7 +272,6 @@
     "無題のカンバン 2.md",
     "無題のカンバン.md",
     "Untitled.md",
-    "README.md",
     "Navier–Stokesh方程式.md",
     "Inbox/20250419-1557-09.md",
     "Textbook",

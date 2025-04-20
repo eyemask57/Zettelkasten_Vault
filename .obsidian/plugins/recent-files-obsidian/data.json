@@ -2,7 +2,23 @@
   "recentFiles": [
     {
       "basename": "工学教程 ベクトル解析",
-      "path": "工学教程 ベクトル解析.md"
+      "path": "_Resources_Book/工学教程 ベクトル解析.md"
+    },
+    {
+      "basename": "考える力学 第2版",
+      "path": "_Resources_Book/考える力学 第2版.md"
+    },
+    {
+      "basename": "測度・確率・ルベーグ積分",
+      "path": "_Resources_Book/測度・確率・ルベーグ積分.md"
+    },
+    {
+      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
+      "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
+    },
+    {
+      "basename": "「集合と位相」をなぜ学ぶのか",
+      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
     },
     {
       "basename": "2025-04-18",
@@ -27,22 +43,6 @@
     {
       "basename": "INBOX-位相と測度",
       "path": "Inbox/INBOX-位相と測度.md"
-    },
-    {
-      "basename": "「集合と位相」をなぜ学ぶのか",
-      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
-    },
-    {
-      "basename": "考える力学 第2版",
-      "path": "_Resources_Book/考える力学 第2版.md"
-    },
-    {
-      "basename": "測度・確率・ルベーグ積分",
-      "path": "_Resources_Book/測度・確率・ルベーグ積分.md"
-    },
-    {
-      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
-      "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
     },
     {
       "basename": "_Experiment-template",

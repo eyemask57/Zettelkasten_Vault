@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+                "file": "_Templates/__Logs-template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "「集合と位相」をなぜ学ぶのか"
+              "title": "__Logs-template"
             }
           }
         ]
@@ -94,7 +94,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -220,17 +221,17 @@
       }
     ]
   },
-  "active": "79d55050254809b4",
+  "active": "2ea76eb54c036773",
   "lastOpenFiles": [
+    "_Templates/__Logs-template.md",
+    "_Templates/__Inbox-template.md",
+    "_Templates/_!Resourse_Book_template.md",
+    "_Templates/_!Resourse_Paper_template.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Logs/2025-04-20.md",
-    "_Templates/__Inbox-template.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/測度・確率・ルベーグ積分.md",
     "_Resources_Book/考える力学 第2版.md",
-    "_Templates/_!Resourse_Book_template.md",
-    "_Templates/_!Resourse_Paper_template.md",
-    "_Templates/__Logs-template.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",

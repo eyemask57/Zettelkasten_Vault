@@ -7,7 +7,8 @@
 出版年／月: 
 DOI: 
 URL: 
-アクセス日:
+アクセス日: 
+ID: RFP-<% tp.date.now("X") %>
 ---
 
 ```bibtex

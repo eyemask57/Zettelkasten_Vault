@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "_!Resourse_Paper_template",
+      "path": "_Templates/_!Resourse_Paper_template.md"
+    },
+    {
       "basename": "「集合と位相」をなぜ学ぶのか",
       "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
     },

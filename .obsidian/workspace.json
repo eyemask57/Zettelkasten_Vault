@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/INBOX-下準備をコンテンツに変える.md",
+                "file": "Logs/2025-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "INBOX-下準備をコンテンツに変える"
+              "title": "2025-04-18"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/INBOX-下準備をコンテンツに変える.md",
+                "file": "Logs/2025-04-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "INBOX-下準備をコンテンツに変えるのアウトライン"
+              "title": "2025-04-18のアウトライン"
             }
           },
           {
@@ -231,15 +231,17 @@
   },
   "active": "8e027b1987d287d9",
   "lastOpenFiles": [
-    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Navier–Stokesh方程式.md",
+    "Logs/2025-04-19.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-18.md",
     "README.md",
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
+    "Inbox/INBOX-流体力学のラグランジュ方程式.md",
+    "Navier–Stokesh方程式.md",
     "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "_Templates/__Inbox-template.md",
-    "Logs/2025-04-19.md",
     "_Templates/Theorem-template.md",
     "_Templates/Definition-template.md",
     "_Templates/!_Problem-template.md",
@@ -249,7 +251,6 @@
     "Inbox/20250419-1557-09.md",
     "Inbox/20250419-1550-51.md",
     "Inbox/20250419-1550-36.md",
-    "Logs/2025-04-18.md",
     "pages",
     "_Resources_Paper",
     "Inbox/20250419-1226-11.md",
@@ -258,7 +259,6 @@
     "Inbox/20250419-1125-58.md",
     "Inbox/Zettelkasten.md",
     "Inbox/20250419-1123-24.md",
-    "Inbox/無題のファイル.md",
     "LANGUAGE",
     "04_コンピュータ",
     "Notes",

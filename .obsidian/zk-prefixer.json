@@ -1,5 +1,5 @@
 {
   "folder": "Inbox",
-  "format": "YYYYMMDD-HHmm-ss",
+  "format": "[INBOX]-X",
   "template": ""
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "無題のファイル.md"
+    },
+    {
+      "basename": "2025-04-20",
+      "path": "Logs/2025-04-20.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
       "basename": "量子力学を学ぶための解析力学入門 増補第2版",
       "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "考える力学 第2版",
       "path": "_Resources_Book/考える力学 第2版.md"
-    },
-    {
-      "basename": "2025-04-20",
-      "path": "Logs/2025-04-20.md"
     },
     {
       "basename": "INBOX-位相と測度",

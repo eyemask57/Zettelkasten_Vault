@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「集合と位相」をなぜ学ぶのか.md",
+                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,8 +94,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,7 +222,7 @@
   },
   "active": "79d55050254809b4",
   "lastOpenFiles": [
-    "「集合と位相」をなぜ学ぶのか.md",
+    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Logs/2025-04-20.md",
     "_Templates/__Inbox-template.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",

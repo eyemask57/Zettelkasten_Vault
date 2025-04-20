@@ -11,8 +11,8 @@ ID: LAW-1745114373
 流体の密度 $\rho$ と運動粘性率 $\nu$ は定数，$p$ は未知関数，外力 $\boldsymbol{F}$ ，速度 $\boldsymbol{v}$ とするとき，以下の方程式
 $$
 \begin{align}
-\nabla \cdot \boldsymbol{v} = 0,\quad
-\frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v}),\quad
+\nabla \cdot \boldsymbol{v} = 0\quad,\quad
+\frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v})\quad,\quad
 \nu = \frac{\mu}{\rho} \\
 
 \frac{\partial \boldsymbol{v}}{\partial t}
@@ -23,11 +23,12 @@ $$
 が成り立つ．
 ## 例・補足（Examples / Notes）
 
-
+- 水などの基本的な物質は大抵の場合は非圧縮性流れとしてよい．
+- 
 
 ## 関連項目（Related Notes）
 
 
 
 ---
-#定義 #流体力学 #Navier-Stokes方程式 
+#定義 #流体力学 #Navier-Stokes方程式 #非圧縮性流体

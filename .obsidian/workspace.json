@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "国際語エスペラント学習の多言語サイト"
             }
+          },
+          {
+            "id": "98ac6e4f0200b398",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "国際語エスペラント学習の多言語サイトのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -221,10 +231,10 @@
       }
     ]
   },
-  "active": "c0aba380694c97e3",
+  "active": "98ac6e4f0200b398",
   "lastOpenFiles": [
-    "Logs/2025-04-20.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
+    "Logs/2025-04-20.md",
     "_Resources_PDF",
     "無題のファイル.md",
     "_Resources_WebPage",

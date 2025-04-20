@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "Navier–Stokes方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-18"
+              "title": "Navier–Stokes方程式"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Logs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "Navier–Stokes方程式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-18へのバックリンク"
+              "title": "Navier–Stokes方程式へのバックリンク"
             }
           },
           {
@@ -133,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "Navier–Stokes方程式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-18からのアウトゴーイングリンク"
+              "title": "Navier–Stokes方程式からのアウトゴーイングリンク"
             }
           },
           {
@@ -162,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-18.md",
+                "file": "Navier–Stokes方程式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-18のアウトライン"
+              "title": "Navier–Stokes方程式のアウトライン"
             }
           },
           {
@@ -200,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +222,7 @@
   },
   "active": "2ee29136391dd9c9",
   "lastOpenFiles": [
+    "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
     "Navier–Stokes方程式.md",
@@ -229,7 +231,6 @@
     "_Templates/Definition-template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "Untitled.md",
-    "Logs/2025-04-18.md",
     "_Templates/Theorem-template.md",
     "README.md",
     "Navier–Stokesh方程式.md",

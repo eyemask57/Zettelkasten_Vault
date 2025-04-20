@@ -11,7 +11,8 @@ ID: DEF-1745114373
 $$
 \begin{align}
 \nabla \cdot \boldsymbol{v} = 0, \quad
-\frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v}) \\
+\frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v}), \quad
+\nu = \frac{\mu}{\rho} \\
 
 \end{align}
 $$

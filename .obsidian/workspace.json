@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logs/2025-04-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-04-20"
             }
           },
           {
@@ -247,8 +247,8 @@
   },
   "active": "4fc0d4e1c47463a9",
   "lastOpenFiles": [
-    "無題のファイル.md",
     "README.md",
+    "無題のファイル.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-20.md",
     "Logs/2025-04-19.md",

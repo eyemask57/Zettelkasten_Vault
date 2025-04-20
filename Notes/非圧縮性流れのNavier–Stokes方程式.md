@@ -4,7 +4,7 @@ ID: DEF-1745114373
 出典:
 ---
 
-# Navier–Stokes方程式（Definition）
+# 非圧縮性流れのNavier–Stokes方程式（Definition）
 
 ## 内容（Definition）
 

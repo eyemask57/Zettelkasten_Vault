@@ -4,7 +4,8 @@
   "tabSize": 4,
   "newFileLocation": "root",
   "livePreview": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "vimMode": false,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true
 }

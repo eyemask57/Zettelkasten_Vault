@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "弱者の傲慢.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "弱者の傲慢"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "弱者の傲慢.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "無題のファイルのアウトライン"
+              "title": "弱者の傲慢のアウトライン"
             }
           },
           {
@@ -234,7 +234,7 @@
   "active": "b7b0155257280a3a",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
-    "無題のファイル.md",
+    "弱者の傲慢.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",

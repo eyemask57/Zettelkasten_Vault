@@ -9,16 +9,36 @@
       "path": "_story_template.md"
     },
     {
+      "basename": "RFB-測度・確率・ルベーグ積分",
+      "path": "_Resources_Book/RFB-測度・確率・ルベーグ積分.md"
+    },
+    {
+      "basename": "RFB-量子力学を学ぶための解析力学入門 増補第2版",
+      "path": "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md"
+    },
+    {
+      "basename": "RFB-考える力学 第2版",
+      "path": "_Resources_Book/RFB-考える力学 第2版.md"
+    },
+    {
+      "basename": "RFB-工学教程 ベクトル解析",
+      "path": "_Resources_Book/RFB-工学教程 ベクトル解析.md"
+    },
+    {
+      "basename": "RFB-ベーシック圏論",
+      "path": "_Resources_Book/RFB-ベーシック圏論.md"
+    },
+    {
+      "basename": "RFB-「集合と位相」をなぜ学ぶのか",
+      "path": "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md"
+    },
+    {
       "basename": "__Inbox-template",
       "path": "_Templates/__Inbox-template.md"
     },
     {
       "basename": "Zettelkasten",
       "path": "Zettelkasten.md"
-    },
-    {
-      "basename": "「集合と位相」をなぜ学ぶのか",
-      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
     },
     {
       "basename": "非圧縮性流れのNavier-Stokes方程式",
@@ -35,14 +55,6 @@
     {
       "basename": "2025-04-21",
       "path": "Logs/2025-04-21.md"
-    },
-    {
-      "basename": "工学教程 ベクトル解析",
-      "path": "_Resources_Book/工学教程 ベクトル解析.md"
-    },
-    {
-      "basename": "ベーシック圏論",
-      "path": "_Resources_Book/ベーシック圏論.md"
     },
     {
       "basename": "Hamilton方程式",

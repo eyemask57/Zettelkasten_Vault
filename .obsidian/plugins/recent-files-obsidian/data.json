@@ -5,12 +5,16 @@
       "path": "Logs/2025-04-22.md"
     },
     {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
+      "basename": "RFB-ベーシック圏論",
+      "path": "_Resources_Book/RFB-ベーシック圏論.md"
     },
     {
       "basename": "Zettelkasten",
-      "path": "Zettelkasten.md"
+      "path": "Notes/Zettelkasten.md"
+    },
+    {
+      "basename": "2025-04-18",
+      "path": "Logs/2025-04-18.md"
     },
     {
       "basename": "2025-04-21",
@@ -21,20 +25,8 @@
       "path": "卑下の傲慢.md"
     },
     {
-      "basename": "2025-04-18",
-      "path": "Logs/2025-04-18.md"
-    },
-    {
-      "basename": "2025-04-19",
-      "path": "Logs/2025-04-19.md"
-    },
-    {
-      "basename": "2025-04-20",
-      "path": "Logs/2025-04-20.md"
-    },
-    {
-      "basename": "RFB-ベーシック圏論",
-      "path": "_Resources_Book/RFB-ベーシック圏論.md"
+      "basename": "___note_template",
+      "path": "_Templates/___note_template.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,5 @@
 ---
-作成日: 2025-04-21 11:02
+作成日: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ID: PHL-<% tp.date.now("X") %>
 出典:
 ---

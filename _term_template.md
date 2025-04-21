@@ -4,7 +4,7 @@ ID: TRM-<% tp.date.now("X") %>
 出典:
 ---
 
-# <% tp.file.title %>（用語整理）
+# <% tp.file.title %>（用語）
 
 ## 説明
 

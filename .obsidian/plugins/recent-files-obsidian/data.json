@@ -5,6 +5,10 @@
       "path": "Zettelkasten.md"
     },
     {
+      "basename": "2025-04-21",
+      "path": "Logs/2025-04-21.md"
+    },
+    {
       "basename": "___term_template",
       "path": "_Templates/___term_template.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "INBOX-流体力学のラグラジアン",
       "path": "Inbox/INBOX-流体力学のラグラジアン.md"
-    },
-    {
-      "basename": "2025-04-21",
-      "path": "Logs/2025-04-21.md"
     },
     {
       "basename": "Hamilton方程式",

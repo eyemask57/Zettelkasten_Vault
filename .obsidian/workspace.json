@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Zettelkasten"
             }
-          },
-          {
-            "id": "5c253866ab1f9526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "「集合と位相」をなぜ学ぶのか"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2efb9f4b1571f762",
@@ -135,7 +110,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "「集合と位相」をなぜ学ぶのかへのバックリンク"
+              "title": "Zettelkastenへのバックリンク"
             }
           },
           {
@@ -228,12 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "「集合と位相」をなぜ学ぶのかからのアウトゴーイングリンク"
+              "title": "Zettelkastenからのアウトゴーイングリンク"
             }
           }
         ],
@@ -260,10 +236,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c253866ab1f9526",
+  "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
-    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",

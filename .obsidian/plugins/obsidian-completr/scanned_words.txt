@@ -19,6 +19,7 @@ Discussion
 Navier
 Notes
 Note
+NFT
 Stokes
 Setup
 Statement
@@ -64,6 +65,7 @@ title
 template
 tikz
 date
+done
 now
 YYYY
 MM
@@ -84,3 +86,4 @@ vs
 Form
 hub
 lernu
+undone

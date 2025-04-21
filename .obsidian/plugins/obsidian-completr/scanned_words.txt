@@ -4,6 +4,7 @@ LAW
 Laws
 Limitations
 Lebesgue
+Leinster
 ID
 INBOX
 Inbox
@@ -40,6 +41,7 @@ Types
 To
 THM
 Theorem
+Tom
 Henkin
 HH
 HUB

@@ -32,6 +32,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2efb9f4b1571f762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f943fa65be721e7a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-21へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -187,12 +202,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-21からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           }
         ],
@@ -219,56 +233,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "9b9481839773125e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f8474b94087111a5",
-        "type": "window",
-        "children": [
-          {
-            "id": "d436c947a3a149c0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79d55050254809b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/2025-04-21.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-21"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1178,
-        "y": 196,
-        "width": 1026,
-        "height": 804,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "cfbc4a2113bfae6b",
+  "active": "f943fa65be721e7a",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",

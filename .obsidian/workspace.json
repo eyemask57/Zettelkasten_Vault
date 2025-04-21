@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Niklas_Luhmann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +110,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b20adc161944cece",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
     "Logs/2025-04-19.md",

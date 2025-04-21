@@ -24,18 +24,20 @@ ID: NOTE-1745241305
 ## 構造と原則
 
 ### 3分類のノート
+
 - **Fleeting Notes**
 	一時的なメモ，思いつき，即時の記録
-	
+
 - **Literature Notes**
 	本や論文からの要約，外部情報の取り込み
-	
+
 - **Permanent Notes**
 	構造化された思考，ネットワークの中心に位置
-	
 ### 4つの原則
+
 - **原子性 (Atomicity)**
 	
+
 - **接続性 (Connectivity)**
 	
 - **独自性 (Own Words)**

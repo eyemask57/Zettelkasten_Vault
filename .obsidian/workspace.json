@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "国際語エスペラント学習の多言語サイト"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-20へのバックリンク"
+              "title": "国際語エスペラント学習の多言語サイトへのバックリンク"
             }
           },
           {
@@ -187,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-20.md",
+                "file": "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-20からのアウトゴーイングリンク"
+              "title": "国際語エスペラント学習の多言語サイトからのアウトゴーイングリンク"
             }
           }
         ],
@@ -256,10 +256,10 @@
   },
   "active": "985a486fa2fd959e",
   "lastOpenFiles": [
-    "Logs/2025-04-21.md",
-    "Logs/2025-04-20.md",
-    "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
+    "Logs/2025-04-19.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-21.md",
     "_Templates/_Experiment-template.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",

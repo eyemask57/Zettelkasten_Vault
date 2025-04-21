@@ -5,7 +5,7 @@ ID: TRM-<% tp.date.now("X") %>
 
 # <% tp.file.title %>（用語整理）
 
-## 定義（Definition）
+## 説明
 
 ...
 

@@ -1,6 +1,6 @@
 ---
 作成日: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-ID: WRD-<% tp.date.now("X") %>
+ID: TRM-<% tp.date.now("X") %>
 出典:
 ---
 

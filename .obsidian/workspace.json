@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_term_template.md",
+                "file": "_Templates/___term_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_term_template"
+              "title": "___term_template"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_story_template.md",
+                "file": "_Templates/1_story_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_story_template"
+              "title": "1_story_template"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_story_template.md",
+                "file": "_Templates/1_story_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_story_template"
+              "title": "1_story_template"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_humanity_template.md",
+                "file": "_Templates/__Inbox-template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_humanity_template"
+              "title": "__Inbox-template"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#物語",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_humanity_template.md",
+                "file": "_Templates/__Inbox-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "_humanity_templateへのバックリンク"
+              "title": "__Inbox-templateへのバックリンク"
             }
           },
           {
@@ -300,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_humanity_template.md",
+                "file": "_Templates/__Inbox-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "_humanity_templateからのアウトゴーイングリンク"
+              "title": "__Inbox-templateからのアウトゴーイングリンク"
             }
           }
         ],
@@ -334,17 +334,23 @@
   },
   "active": "76caf20f224d00e9",
   "lastOpenFiles": [
-    "_philosophy_template.md",
-    "_story_template.md",
-    "_term_template.md",
-    "_humanity_template.md",
+    "_Templates/_!Resourse_Book_template.md",
+    "_Templates/__Logs-template.md",
+    "_Templates/__Inbox-template.md",
+    "_Templates/___term_template.md",
+    "_Templates/__Hub-template.md",
+    "_Templates/_model-template.md",
+    "_Templates/1_somebook_template.md",
+    "_Templates/0_humanity_template.md",
+    "_Templates/0_philosophy_template.md",
+    "_Templates/1_story_template.md",
+    "無題のフォルダ",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
     "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/RFB-考える力学 第2版.md",
     "_Resources_Book/RFB-工学教程 ベクトル解析.md",
     "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
-    "_Templates/__Inbox-template.md",
     "Zettelkasten.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
@@ -355,11 +361,6 @@
     "Logs/2025-04-20.md",
     "Lagrange方程式.md",
     "Inbox/INBOX-駆動式本棚.md",
-    "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Logs/2025-04-19.md",
-    "Logs/2025-04-18.md",
-    "README.md",
-    "Bessel関数.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources_PDF",
@@ -369,7 +370,6 @@
     "ARCHIVE_Logs",
     "Textbook",
     "_Resources_Paper",
-    "LANGUAGE",
     "無題のファイル.canvas"
   ]
 }

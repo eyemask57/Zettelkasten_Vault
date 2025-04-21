@@ -27,6 +27,7 @@ Statement
 Scope
 Solution
 STR
+SBK
 Examples
 EXP
 Experiment
@@ -50,6 +51,7 @@ HH
 HUB
 HUM
 HMN
+Hub
 Possible
 Purpose
 Procedure

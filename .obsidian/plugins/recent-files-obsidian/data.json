@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "_humanity_template",
-      "path": "_humanity_template.md"
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
     },
     {
-      "basename": "_philosophy_template",
-      "path": "_philosophy_template.md"
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
     },
     {
-      "basename": "_story_template",
-      "path": "_story_template.md"
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
     },
     {
-      "basename": "_term_template",
-      "path": "_term_template.md"
+      "basename": "___term_template",
+      "path": "_Templates/___term_template.md"
+    },
+    {
+      "basename": "__Hub-template",
+      "path": "_Templates/__Hub-template.md"
+    },
+    {
+      "basename": "_model-template",
+      "path": "_Templates/_model-template.md"
+    },
+    {
+      "basename": "1_somebook_template",
+      "path": "_Templates/1_somebook_template.md"
+    },
+    {
+      "basename": "0_humanity_template",
+      "path": "_Templates/0_humanity_template.md"
+    },
+    {
+      "basename": "0_philosophy_template",
+      "path": "_Templates/0_philosophy_template.md"
+    },
+    {
+      "basename": "1_story_template",
+      "path": "_Templates/1_story_template.md"
     },
     {
       "basename": "RFB-ベーシック圏論",
@@ -39,10 +63,6 @@
     {
       "basename": "RFB-「集合と位相」をなぜ学ぶのか",
       "path": "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md"
-    },
-    {
-      "basename": "__Inbox-template",
-      "path": "_Templates/__Inbox-template.md"
     },
     {
       "basename": "Zettelkasten",

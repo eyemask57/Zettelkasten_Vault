@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Logs/2025-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "READMEへのバックリンク"
+              "title": "2025-04-21へのバックリンク"
             }
           },
           {
@@ -188,12 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Logs/2025-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "READMEからのアウトゴーイングリンク"
+              "title": "2025-04-21からのアウトゴーイングリンク"
             }
           }
         ],
@@ -257,8 +257,9 @@
   },
   "active": "985a486fa2fd959e",
   "lastOpenFiles": [
-    "Logs/2025-04-21.md",
+    "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "README.md",
+    "Logs/2025-04-21.md",
     "Logs/2025-04-19.md",
     "_Templates/__Hub-template.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
@@ -266,7 +267,6 @@
     "Logs/2025-04-20.md",
     "_Templates/_Experiment-template.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
-    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Templates/__Logs-template.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",

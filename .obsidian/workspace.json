@@ -11,10 +11,24 @@
             "id": "4c59ce36fbbcae8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-21"
             }
           }
         ]
@@ -170,6 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logs/2025-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "2025-04-21へのバックリンク"
             }
           },
           {
@@ -188,11 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logs/2025-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "2025-04-21からのアウトゴーイングリンク"
             }
           }
         ],
@@ -221,6 +237,7 @@
   },
   "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
+    "INBOX-ポケモンLIKEのNFT.md",
     "Logs/2025-04-21.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",

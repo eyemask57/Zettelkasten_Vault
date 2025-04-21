@@ -70,6 +70,7 @@ ss
 Vauls
 Validity
 Zettelkasten
+Zettel
 Obsidian
 Overview
 tp
@@ -102,3 +103,4 @@ lernu
 undone
 xx
 WRD
+Kasten

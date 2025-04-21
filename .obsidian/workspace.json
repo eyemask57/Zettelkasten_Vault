@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#物語",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Resources_Book/工学教程 ベクトル解析.md",
+                "file": "Zettelkasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工学教程 ベクトル解析のアウトライン"
+              "title": "Zettelkastenのアウトライン"
             }
           },
           {
@@ -177,42 +178,8 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "ba0332f06adadd5d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Zettelkasten.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Zettelkastenへのバックリンク"
-            }
-          },
-          {
-            "id": "d2217b0912c12d03",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Zettelkasten.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Zettelkastenからのアウトゴーイングリンク"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,9 +202,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c59ce36fbbcae8d",
+  "active": "b20adc161944cece",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
+    "Logs/2025-04-19.md",
+    "_Templates/__Logs-template.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-18.md",
     "Zettelkasten.md",
     "_Templates/___term_template.md",
     "_Templates/1_story_template.md",
@@ -253,7 +224,6 @@
     "_Templates/__Inbox-template.md",
     "_Templates/__Hub-template.md",
     "_Templates/___note_template.md",
-    "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",
     "_Templates/_!Resourse_Paper_template.md",
     "無題のフォルダ",
@@ -261,9 +231,6 @@
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
     "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/RFB-考える力学 第2版.md",
-    "_Resources_Book/RFB-工学教程 ベクトル解析.md",
-    "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
-    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources_PDF",

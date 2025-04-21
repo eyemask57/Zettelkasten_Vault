@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_term_template.md",
+                "file": "_humanity_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_term_template"
+              "title": "_humanity_template"
             }
           }
         ],
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_term_template.md",
+                "file": "_humanity_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "_term_templateへのバックリンク"
+              "title": "_humanity_templateへのバックリンク"
             }
           },
           {
@@ -300,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_term_template.md",
+                "file": "_humanity_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "_term_templateからのアウトゴーイングリンク"
+              "title": "_humanity_templateからのアウトゴーイングリンク"
             }
           }
         ],
@@ -334,10 +334,10 @@
   },
   "active": "76caf20f224d00e9",
   "lastOpenFiles": [
-    "_story_template.md",
     "_philosophy_template.md",
-    "_humanity_template.md",
+    "_story_template.md",
     "_term_template.md",
+    "_humanity_template.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
     "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",

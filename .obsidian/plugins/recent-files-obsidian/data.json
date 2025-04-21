@@ -5,8 +5,16 @@
       "path": "_story_template.md"
     },
     {
+      "basename": "_philosophy_template",
+      "path": "_philosophy_template.md"
+    },
+    {
       "basename": "_term_template",
       "path": "_term_template.md"
+    },
+    {
+      "basename": "RFB-ベーシック圏論",
+      "path": "_Resources_Book/RFB-ベーシック圏論.md"
     },
     {
       "basename": "RFB-測度・確率・ルベーグ積分",
@@ -23,10 +31,6 @@
     {
       "basename": "RFB-工学教程 ベクトル解析",
       "path": "_Resources_Book/RFB-工学教程 ベクトル解析.md"
-    },
-    {
-      "basename": "RFB-ベーシック圏論",
-      "path": "_Resources_Book/RFB-ベーシック圏論.md"
     },
     {
       "basename": "RFB-「集合と位相」をなぜ学ぶのか",

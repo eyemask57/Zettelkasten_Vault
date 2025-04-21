@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "_story_template"
             }
+          },
+          {
+            "id": "f8e2fbfa2aa9bf8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_story_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_story_template"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "2efb9f4b1571f762",
@@ -284,15 +308,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c2b4fabb2b16d0e",
+  "active": "f8e2fbfa2aa9bf8b",
   "lastOpenFiles": [
-    "_term_template.md",
+    "_philosophy_template.md",
     "_story_template.md",
+    "_term_template.md",
+    "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
     "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/RFB-考える力学 第2版.md",
     "_Resources_Book/RFB-工学教程 ベクトル解析.md",
-    "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
     "_Templates/__Inbox-template.md",
     "Zettelkasten.md",
@@ -311,7 +336,6 @@
     "README.md",
     "Bessel関数.md",
     "Gamma関数.md",
-    "INBOX-ポケモンLIKEのNFT.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources_PDF",

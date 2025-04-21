@@ -94,8 +94,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +254,7 @@
       }
     ]
   },
-  "active": "985a486fa2fd959e",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "README.md",

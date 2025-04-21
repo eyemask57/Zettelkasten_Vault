@@ -37,6 +37,7 @@ Related
 Raw
 RFB
 RFP
+READ
 Thought
 Types
 To
@@ -47,12 +48,16 @@ TRM
 Henkin
 HH
 HUB
+HUM
+HMN
 Possible
 Purpose
 Procedure
 PRB
 Problem
 Proof
+PHI
+PHL
 kanban
 plugin
 project
@@ -92,3 +97,4 @@ Form
 hub
 lernu
 undone
+xx

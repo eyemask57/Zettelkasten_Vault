@@ -235,10 +235,24 @@
                 "id": "79d55050254809b4",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/2025-04-21.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-21"
                 }
               }
             ]
@@ -246,9 +260,9 @@
         ],
         "direction": "vertical",
         "x": -1178,
-        "y": 197,
-        "width": 1024,
-        "height": 800,
+        "y": 196,
+        "width": 1026,
+        "height": 804,
         "maximize": false,
         "zoom": 0
       }
@@ -256,11 +270,11 @@
   },
   "active": "cfbc4a2113bfae6b",
   "lastOpenFiles": [
+    "Logs/2025-04-21.md",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
-    "Logs/2025-04-21.md",
     "README.md",
     "Logs/2025-04-19.md",
     "_Templates/__Hub-template.md",

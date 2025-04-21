@@ -11,10 +11,24 @@
             "id": "f943fa65be721e7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Zettelkasten"
             }
           }
         ]
@@ -100,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Zettelkasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "Zettelkastenのアウトライン"
             }
           },
           {
@@ -171,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cfbc4a2113bfae6b",
+  "active": "f943fa65be721e7a",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
     "Zettelkasten.md",

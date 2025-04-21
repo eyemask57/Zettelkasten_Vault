@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten"
+              "title": "LAW-非圧縮性流れのNavier-Stokes方程式"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zettelkastenへのバックリンク"
+              "title": "LAW-非圧縮性流れのNavier-Stokes方程式へのバックリンク"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Zettelkastenからのアウトゴーイングリンク"
+              "title": "LAW-非圧縮性流れのNavier-Stokes方程式からのアウトゴーイングリンク"
             }
           }
         ],
@@ -237,19 +237,23 @@
   },
   "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
+    "README.md",
+    "to-write/Bessel関数.md",
+    "to-write/Gamma関数.md",
+    "to-write/INBOX-駆動式本棚.md",
+    "to-write",
+    "Logs/2025-04-20.md",
     "Logs/2025-04-18.md",
-    "Zettelkasten.md",
+    "Logs/2025-04-19.md",
+    "to-write/Zettelkasten.md",
     "Logs/2025-04-21.md",
     "Textbook/Round-robin/phys-解析力学",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
-    "README.md",
-    "Logs/2025-04-19.md",
     "_Templates/__Hub-template.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
-    "Logs/2025-04-20.md",
     "_Templates/_Experiment-template.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "_Templates/__Logs-template.md",
@@ -263,16 +267,11 @@
     "_Resources_Book/測度・確率・ルベーグ積分.md",
     "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md",
     "Textbook/my_Text",
-    "_Templates/!_Problem-template.md",
-    "円座標系の非圧縮性流体.md",
-    "_Templates/_Laws-template.md",
-    "_Templates/_model-template.md",
     "Textbook/Round-robin",
     "ARCHIVE_Logs",
     "Textbook",
     "_Resources_Paper",
     "LANGUAGE",
-    "04_コンピュータ",
     "無題のファイル.canvas"
   ]
 }

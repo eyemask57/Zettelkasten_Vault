@@ -4,7 +4,7 @@ ID: PHL-<% tp.date.now("X") %>
 出典:
 ---
 
-# 哲学ノート
+# <% tp.file.title %> (哲学ノート)
 
 ## 主題
 

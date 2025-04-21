@@ -21,6 +21,7 @@ Navier
 Notes
 Note
 NFT
+NOTE
 Stokes
 Setup
 Statement

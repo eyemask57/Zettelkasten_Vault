@@ -1,32 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "__Inbox-template",
-      "path": "_Templates/__Inbox-template.md"
-    },
-    {
-      "basename": "_!Resourse_Book_template",
-      "path": "_Templates/_!Resourse_Book_template.md"
-    },
-    {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
-    },
-    {
       "basename": "___term_template",
       "path": "_Templates/___term_template.md"
     },
     {
-      "basename": "__Hub-template",
-      "path": "_Templates/__Hub-template.md"
-    },
-    {
-      "basename": "_model-template",
-      "path": "_Templates/_model-template.md"
-    },
-    {
-      "basename": "1_somebook_template",
-      "path": "_Templates/1_somebook_template.md"
+      "basename": "1_story_template",
+      "path": "_Templates/1_story_template.md"
     },
     {
       "basename": "0_humanity_template",
@@ -37,8 +17,56 @@
       "path": "_Templates/0_philosophy_template.md"
     },
     {
-      "basename": "1_story_template",
-      "path": "_Templates/1_story_template.md"
+      "basename": "1_somebook_template",
+      "path": "_Templates/1_somebook_template.md"
+    },
+    {
+      "basename": "Definition-template",
+      "path": "_Templates/Definition-template.md"
+    },
+    {
+      "basename": "Theorem-template",
+      "path": "_Templates/Theorem-template.md"
+    },
+    {
+      "basename": "!_Problem-template",
+      "path": "_Templates/!_Problem-template.md"
+    },
+    {
+      "basename": "_model-template",
+      "path": "_Templates/_model-template.md"
+    },
+    {
+      "basename": "_Laws-template",
+      "path": "_Templates/_Laws-template.md"
+    },
+    {
+      "basename": "_Experiment-template",
+      "path": "_Templates/_Experiment-template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
+      "basename": "__Hub-template",
+      "path": "_Templates/__Hub-template.md"
+    },
+    {
+      "basename": "___note_template",
+      "path": "_Templates/___note_template.md"
+    },
+    {
+      "basename": "__Logs-template",
+      "path": "_Templates/__Logs-template.md"
+    },
+    {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "_!Resourse_Paper_template",
+      "path": "_Templates/_!Resourse_Paper_template.md"
     },
     {
       "basename": "RFB-ベーシック圏論",

@@ -7,6 +7,18 @@
     {
       "basename": "LAW-非圧縮性流れのNavier-Stokes方程式",
       "path": "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md"
+    },
+    {
+      "basename": "INBOX-位相と測度",
+      "path": "Inbox/INBOX-位相と測度.md"
+    },
+    {
+      "basename": "INBOX-下準備をコンテンツに変える",
+      "path": "Inbox/INBOX-下準備をコンテンツに変える.md"
+    },
+    {
+      "basename": "INBOX-流体力学のラグラジアン",
+      "path": "Inbox/INBOX-流体力学のラグラジアン.md"
     }
   ],
   "omittedPaths": [],

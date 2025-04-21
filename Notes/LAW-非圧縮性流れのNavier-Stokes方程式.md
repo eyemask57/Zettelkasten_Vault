@@ -16,8 +16,7 @@ $$
 \frac{\partial \rho}{\partial t} = \nabla \cdot(\rho \boldsymbol{v})\quad,\quad
 \nu = \frac{\mu}{\rho} \\
 
-\frac{\partial \boldsymbol{v}}{\partial t}
- + (\boldsymbol{v} \cdot \nabla)\boldsymbol{v}
+\frac{\partial \boldsymbol{v}}{\partial t} + (\boldsymbol{v} \cdot \nabla)\boldsymbol{v}
  = - \frac{1}{\rho}\nabla p + \nu \nabla^{2} \boldsymbol{v} + \boldsymbol{F}
 \end{aligned}
 $$

@@ -4,66 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9e26bdcbf3084694",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c59ce36fbbcae8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-04-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-21"
-            }
-          }
-        ]
-      },
-      {
-        "id": "70c729b47b460718",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7b0155257280a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "弱者の傲慢.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "弱者の傲慢"
-            }
-          }
-        ]
-      },
-      {
         "id": "2efb9f4b1571f762",
         "type": "tabs",
         "children": [
@@ -160,13 +100,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "弱者の傲慢.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "弱者の傲慢のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -208,7 +147,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,14 +171,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b7b0155257280a3a",
+  "active": "cfbc4a2113bfae6b",
   "lastOpenFiles": [
     "Logs/2025-04-21.md",
-    "弱者の傲慢.md",
+    "Zettelkasten.md",
+    "卑下の傲慢.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
-    "Zettelkasten.md",
     "_Templates/__Logs-template.md",
     "_Templates/___term_template.md",
     "_Templates/1_story_template.md",

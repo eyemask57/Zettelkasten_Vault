@@ -45,4 +45,4 @@ ID: NOTE-1745241305
 - **永続性 (Permanence)**
 
 ---
-#Note #to-do #情報整理 #Zettelkasten #Niklas_Luhmann
+#Note #情報整理 #Zettelkasten #Niklas_Luhmann #todo

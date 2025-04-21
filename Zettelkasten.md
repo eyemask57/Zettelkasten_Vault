@@ -58,7 +58,8 @@ ID: NOTE-1745241305
 
 - 網目のように広がる知識の接続で「文脈の拡張・構築」を実現．
 - 情報過多社会において知識同士の接続は価値を持つ．
-- 様々な立場の人間にZe
+- 様々な立場の人間にZettelkastenは**第二の脳**として機能する．
+- Zettelkastenは外部記憶装置でありなが
 
 ## (私見)
 
@@ -66,4 +67,4 @@ ID: NOTE-1745241305
 - Zettelkastenだけに拘るのではなく，更なる記述方式の確立や融合も可能．
 - 自分の思想に合わせた運用ができる．
 ---
-#Note #情報整理 #Zettelkasten #Niklas_Luhmann #todo
+#Note #情報整理 #Zettelkasten #Niklas_L

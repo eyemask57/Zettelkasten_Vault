@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2efb9f4b1571f762",
+        "id": "4ab65b4e99125386",
         "type": "tabs",
         "children": [
           {
-            "id": "f943fa65be721e7a",
+            "id": "a4201386e30c2740",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-22"
             }
           }
         ]
@@ -100,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/2025-04-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-04-22のアウトライン"
             }
           },
           {
@@ -171,15 +186,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f943fa65be721e7a",
+  "active": "a4201386e30c2740",
   "lastOpenFiles": [
+    "_Templates/__Logs-template.md",
+    "Logs/2025-04-22.md",
     "Zettelkasten.md",
     "Logs/2025-04-21.md",
     "卑下の傲慢.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-20.md",
-    "_Templates/__Logs-template.md",
     "_Templates/___term_template.md",
     "_Templates/1_story_template.md",
     "_Templates/0_humanity_template.md",
@@ -199,7 +215,6 @@
     "無題のフォルダ",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
-    "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources_PDF",

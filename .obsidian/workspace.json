@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Zettelkasten"
             }
+          },
+          {
+            "id": "6338b4558fec5d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_term_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_term_template"
+            }
+          },
+          {
+            "id": "0c2b4fabb2b16d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_term_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_term_template"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2efb9f4b1571f762",
@@ -110,8 +159,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "_term_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zettelkastenへのバックリンク"
+              "title": "_term_templateへのバックリンク"
             }
           },
           {
@@ -204,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "_term_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Zettelkastenからのアウトゴーイングリンク"
+              "title": "_term_templateからのアウトゴーイングリンク"
             }
           }
         ],
@@ -236,15 +284,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c59ce36fbbcae8d",
+  "active": "0c2b4fabb2b16d0e",
   "lastOpenFiles": [
+    "_story_template.md",
+    "_Templates/__Inbox-template.md",
+    "_term_template.md",
+    "Zettelkasten.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-21.md",
-    "Zettelkasten.md",
     "_Resources_Book/工学教程 ベクトル解析.md",
     "_Resources_Book/ベーシック圏論.md",
     "Hamilton方程式.md",
@@ -265,9 +316,6 @@
     "_Templates/__Logs-template.md",
     "_Resources_PDF",
     "_Resources_WebPage",
-    "_Templates/_!Resourse_Book_template.md",
-    "_Templates/__Inbox-template.md",
-    "_Resources_Book/考える力学 第2版.md",
     "Textbook/my_Text",
     "Textbook/Round-robin",
     "ARCHIVE_Logs",

@@ -26,6 +26,7 @@ Setup
 Statement
 Scope
 Solution
+STR
 Examples
 EXP
 Experiment
@@ -42,6 +43,7 @@ To
 THM
 Theorem
 Tom
+TRM
 Henkin
 HH
 HUB
@@ -70,6 +72,7 @@ date
 done
 now
 YYYY
+YYYYMMDDHHmmss
 MM
 MDL
 Model

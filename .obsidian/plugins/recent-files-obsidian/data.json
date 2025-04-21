@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "_term_template",
+      "path": "_term_template.md"
+    },
+    {
+      "basename": "_story_template",
+      "path": "_story_template.md"
+    },
+    {
+      "basename": "__Inbox-template",
+      "path": "_Templates/__Inbox-template.md"
+    },
+    {
       "basename": "Zettelkasten",
       "path": "Zettelkasten.md"
     },

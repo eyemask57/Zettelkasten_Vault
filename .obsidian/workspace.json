@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "「集合と位相」をなぜ学ぶのか"
             }
           }
         ],
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-21へのバックリンク"
+              "title": "「集合と位相」をなぜ学ぶのかへのバックリンク"
             }
           },
           {
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-21からのアウトゴーイングリンク"
+              "title": "「集合と位相」をなぜ学ぶのかからのアウトゴーイングリンク"
             }
           }
         ],
@@ -262,29 +262,29 @@
   },
   "active": "5c253866ab1f9526",
   "lastOpenFiles": [
-    "Zettelkasten.md",
+    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
+    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
+    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "Inbox/INBOX-位相と測度.md",
+    "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-21.md",
+    "Zettelkasten.md",
     "_Resources_Book/工学教程 ベクトル解析.md",
     "_Resources_Book/ベーシック圏論.md",
-    "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "Hamilton方程式.md",
-    "Inbox/INBOX-流体力学のラグラジアン.md",
     "Logs/2025-04-20.md",
     "Lagrange方程式.md",
     "Inbox/INBOX-駆動式本棚.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
-    "Inbox/INBOX-位相と測度.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
     "README.md",
     "Bessel関数.md",
     "Gamma関数.md",
     "INBOX-ポケモンLIKEのNFT.md",
-    "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Templates/__Hub-template.md",
-    "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
     "_Templates/_Experiment-template.md",
     "_Templates/__Logs-template.md",
     "_Resources_PDF",

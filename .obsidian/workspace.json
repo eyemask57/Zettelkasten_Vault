@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -130,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten.md",
+                "file": "Logs/2025-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Zettelkastenのアウトライン"
+              "title": "2025-04-21のアウトライン"
             }
           },
           {
@@ -201,14 +201,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "685a1d4f83d20f2b",
+  "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
+    "Zettelkasten.md",
     "Logs/2025-04-21.md",
     "Logs/2025-04-19.md",
     "_Templates/__Logs-template.md",
     "Logs/2025-04-20.md",
     "Logs/2025-04-18.md",
-    "Zettelkasten.md",
     "_Templates/___term_template.md",
     "_Templates/1_story_template.md",
     "_Templates/0_humanity_template.md",

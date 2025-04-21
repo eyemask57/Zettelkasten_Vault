@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/___term_template.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "___term_templateへのバックリンク"
+              "title": "Zettelkastenへのバックリンク"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/___term_template.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "___term_templateからのアウトゴーイングリンク"
+              "title": "Zettelkastenからのアウトゴーイングリンク"
             }
           }
         ],
@@ -235,8 +235,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "685a1d4f83d20f2b",
+  "active": "cfbc4a2113bfae6b",
   "lastOpenFiles": [
+    "_Templates/___term_template.md",
     "_Templates/1_story_template.md",
     "_Templates/0_humanity_template.md",
     "_Templates/0_philosophy_template.md",
@@ -249,7 +250,6 @@
     "_Templates/_Experiment-template.md",
     "_Templates/__Inbox-template.md",
     "_Templates/__Hub-template.md",
-    "_Templates/___term_template.md",
     "_Templates/___note_template.md",
     "_Templates/__Logs-template.md",
     "_Templates/_!Resourse_Book_template.md",

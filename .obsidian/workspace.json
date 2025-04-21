@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Zettelkasten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Zettelkasten"
+            }
+          },
+          {
+            "id": "5c253866ab1f9526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ベーシック圏論.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ベーシック圏論"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2efb9f4b1571f762",
@@ -184,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "ベーシック圏論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-21へのバックリンク"
+              "title": "ベーシック圏論へのバックリンク"
             }
           },
           {
@@ -203,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "ベーシック圏論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-21からのアウトゴーイングリンク"
+              "title": "ベーシック圏論からのアウトゴーイングリンク"
             }
           }
         ],
@@ -235,10 +260,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c59ce36fbbcae8d",
+  "active": "5c253866ab1f9526",
   "lastOpenFiles": [
-    "INBOX-ポケモンLIKEのNFT.md",
+    "Zettelkasten.md",
+    "ベーシック圏論.md",
+    "README.md",
+    "Bessel関数.md",
+    "Gamma関数.md",
     "Logs/2025-04-21.md",
+    "INBOX-ポケモンLIKEのNFT.md",
     "Logs/2025-04-19.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-20.md",
@@ -246,12 +276,8 @@
     "Inbox/INBOX-駆動式本棚.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
     "Inbox/INBOX-位相と測度.md",
-    "to-write/Gamma関数.md",
-    "to-write/Bessel関数.md",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
-    "README.md",
     "to-write",
-    "to-write/Zettelkasten.md",
     "Textbook/Round-robin/phys-解析力学",
     "_Templates/__Hub-template.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
@@ -259,7 +285,6 @@
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
     "_Templates/__Logs-template.md",
     "_Resources_PDF",
-    "無題のファイル.md",
     "_Resources_WebPage",
     "_Templates/_!Resourse_Book_template.md",
     "_Templates/__Inbox-template.md",

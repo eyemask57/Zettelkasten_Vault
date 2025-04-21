@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "ベーシック圏論",
+      "path": "ベーシック圏論.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Zettelkasten.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Bessel関数",
+      "path": "Bessel関数.md"
+    },
+    {
+      "basename": "Gamma関数",
+      "path": "Gamma関数.md"
+    },
+    {
       "basename": "2025-04-21",
       "path": "Logs/2025-04-21.md"
     },
@@ -33,24 +53,8 @@
       "path": "Inbox/INBOX-位相と測度.md"
     },
     {
-      "basename": "Gamma関数",
-      "path": "to-write/Gamma関数.md"
-    },
-    {
-      "basename": "Bessel関数",
-      "path": "to-write/Bessel関数.md"
-    },
-    {
       "basename": "LAW-非圧縮性流れのNavier-Stokes方程式",
       "path": "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "to-write/Zettelkasten.md"
     }
   ],
   "omittedPaths": [],

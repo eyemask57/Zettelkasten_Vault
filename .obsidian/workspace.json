@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Zettelkasten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Zettelkasten"
             }
           }
         ]
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-04-21へのバックリンク"
+              "title": "Zettelkastenへのバックリンク"
             }
           },
           {
@@ -203,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-04-21からのアウトゴーイングリンク"
+              "title": "Zettelkastenからのアウトゴーイングリンク"
             }
           }
         ],
@@ -235,10 +235,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "685a1d4f83d20f2b",
+  "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
-    "Textbook/Round-robin/phys-解析力学",
+    "Logs/2025-04-18.md",
+    "Zettelkasten.md",
     "Logs/2025-04-21.md",
+    "Textbook/Round-robin/phys-解析力学",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",
@@ -247,7 +249,6 @@
     "Logs/2025-04-19.md",
     "_Templates/__Hub-template.md",
     "_Resources_WebPage/国際語エスペラント学習の多言語サイト.md",
-    "Logs/2025-04-18.md",
     "Logs/2025-04-20.md",
     "_Templates/_Experiment-template.md",
     "_Resources_Book/「集合と位相」をなぜ学ぶのか.md",
@@ -272,7 +273,6 @@
     "_Resources_Paper",
     "LANGUAGE",
     "04_コンピュータ",
-    "Notes",
     "無題のファイル.canvas"
   ]
 }

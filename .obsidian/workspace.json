@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_story_template.md",
+                "file": "_term_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_story_template"
+              "title": "_term_template"
             }
           }
         ],
@@ -281,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_story_template.md",
+                "file": "_term_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "_story_templateへのバックリンク"
+              "title": "_term_templateへのバックリンク"
             }
           },
           {
@@ -300,12 +300,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_story_template.md",
+                "file": "_term_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "_story_templateからのアウトゴーイングリンク"
+              "title": "_term_templateからのアウトゴーイングリンク"
             }
           }
         ],
@@ -334,9 +334,9 @@
   },
   "active": "76caf20f224d00e9",
   "lastOpenFiles": [
+    "_story_template.md",
     "_philosophy_template.md",
     "_humanity_template.md",
-    "_story_template.md",
     "_term_template.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",

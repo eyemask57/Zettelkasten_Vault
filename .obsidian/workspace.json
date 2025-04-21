@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_term_template.md",
+                "file": "_story_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_term_template"
+              "title": "_story_template"
             }
           }
         ],
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_term_template.md",
+                "file": "_story_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "_term_templateへのバックリンク"
+              "title": "_story_templateへのバックリンク"
             }
           },
           {
@@ -252,12 +252,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_term_template.md",
+                "file": "_story_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "_term_templateからのアウトゴーイングリンク"
+              "title": "_story_templateからのアウトゴーイングリンク"
             }
           }
         ],
@@ -286,8 +286,8 @@
   },
   "active": "0c2b4fabb2b16d0e",
   "lastOpenFiles": [
-    "_story_template.md",
     "_term_template.md",
+    "_story_template.md",
     "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
     "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
     "_Resources_Book/RFB-考える力学 第2版.md",

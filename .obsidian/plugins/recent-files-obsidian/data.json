@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten",
+      "path": "Zettelkasten.md"
+    },
+    {
       "basename": "___term_template",
       "path": "_Templates/___term_template.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "RFB-「集合と位相」をなぜ学ぶのか",
       "path": "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "Zettelkasten.md"
     },
     {
       "basename": "非圧縮性流れのNavier-Stokes方程式",

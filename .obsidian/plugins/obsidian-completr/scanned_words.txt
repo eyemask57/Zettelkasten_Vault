@@ -76,6 +76,7 @@ Please
 kanban
 plugin
 project
+plugins
 board
 by
 be
@@ -86,6 +87,7 @@ settings
 ss
 strongly
 simple
+scanned
 Vauls
 Validity
 Zettelkasten
@@ -102,6 +104,7 @@ todo
 them
 the
 text
+txt
 date
 done
 do
@@ -161,9 +164,11 @@ commit
 commands
 conflicted
 conflicts
+completr
 will
 workspace
 with
+words
 obsidian
 occurrence
 of

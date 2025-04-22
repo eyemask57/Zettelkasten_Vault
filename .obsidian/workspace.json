@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-04-22"
             }
+          },
+          {
+            "id": "050da696feb596b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-22"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,11 +246,11 @@
       }
     ]
   },
-  "active": "f31f4a1551904288",
+  "active": "050da696feb596b7",
   "lastOpenFiles": [
-    "Logs/2025-04-21.md",
-    "Logs/2025-04-22.md",
     "conflict-files-obsidian-git.md",
+    "Logs/2025-04-22.md",
+    "Logs/2025-04-21.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "Notes/Zettelkasten.md",
     "Logs/2025-04-18.md",

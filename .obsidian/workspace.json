@@ -13,6 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Logs/2025-04-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-18"
+            }
+          },
+          {
+            "id": "945206d8f408e975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aINBOX-自己への傲慢.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "aINBOX-自己への傲慢"
+            }
+          },
+          {
+            "id": "f923af9caf19bdb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Logs/2025-04-23.md",
                 "mode": "source",
                 "source": false,
@@ -37,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卑下の傲慢.md",
+                "file": "比較の傲慢.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "卑下の傲慢"
+              "title": "比較の傲慢"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,35 +294,35 @@
       }
     ]
   },
-  "active": "f31f4a1551904288",
+  "active": "f923af9caf19bdb5",
   "lastOpenFiles": [
-    "Logs/2025-04-22.md",
-    "卑下の傲慢.md",
-    "_Resources/Resources_me.md",
-    "Notes/DEF-ベクトル空間.md",
+    "aINBOX-自己への傲慢.md",
+    "aINBOX-怒りと過去.md",
     "Notes/Zettelkasten.md",
+    "Notes/ベクトル空間.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "PRB-円座標系の非圧縮性流体.md",
+    "Logs/2025-04-22.md",
+    "Logs/2025-04-23.md",
+    "比較の傲慢.md",
+    "_Resources/Resources_me.md",
+    "Logs/2025-04-18.md",
+    "体.md",
+    "Logs/2025-04-19.md",
     "_Resources/_Resources_Book/RFB-ベーシック圏論.md",
     "_Resources/_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
-    "Logs/2025-04-18.md",
     "_Resources",
     "加群.md",
     "線形独立・線形従属.md",
     "数ベクトル空間の内積.md",
     "集合.md",
     "基底.md",
-    "Logs/2025-04-23.md",
     "Logs/2025-04-21.md",
     "Logs/2025-04-20.md",
-    "Logs/2025-04-19.md",
-    "体.md",
     "内積.md",
     "conflict-files-obsidian-git.md",
     "_Templates/___note_template.md",
     "_Templates/__Logs-template.md",
-    "_Templates/___term_template.md",
-    "_Templates/1_story_template.md",
-    "_Templates/0_humanity_template.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources/_Resources_PDF",

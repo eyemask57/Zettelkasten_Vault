@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-22.md",
+                "file": "Logs/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-22.md",
+                "file": "Logs/2025-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-22のアウトライン"
+              "title": "2025-04-21のアウトライン"
             }
           },
           {
@@ -223,9 +223,9 @@
   },
   "active": "f31f4a1551904288",
   "lastOpenFiles": [
+    "Logs/2025-04-22.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "Notes/Zettelkasten.md",
-    "Logs/2025-04-22.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-21.md",
     "卑下の傲慢.md",

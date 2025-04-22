@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-22.md",
+                "file": "Logs/2025-04-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-23"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DEF-ベクトル空間.md",
+                "file": "卑下の傲慢.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DEF-ベクトル空間"
+              "title": "卑下の傲慢"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-04-23のアウトライン"
             }
           },
           {
@@ -245,44 +245,44 @@
       }
     ]
   },
-  "active": "a4201386e30c2740",
+  "active": "f31f4a1551904288",
   "lastOpenFiles": [
-    "Notes/DEF-ベクトル空間.md",
-    "内積.md",
-    "線形独立・線形従属.md",
-    "Logs/2025-04-23.md",
     "Logs/2025-04-22.md",
-    "Logs/2025-04-21.md",
-    "conflict-files-obsidian-git.md",
-    "_Resources_Book/RFB-ベーシック圏論.md",
-    "Notes/Zettelkasten.md",
-    "Logs/2025-04-18.md",
     "卑下の傲慢.md",
-    "_Templates/___note_template.md",
+    "_Resources/Resources_me.md",
+    "Notes/DEF-ベクトル空間.md",
+    "Notes/Zettelkasten.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "_Templates/__Logs-template.md",
-    "Logs/2025-04-19.md",
+    "_Resources/_Resources_Book/RFB-ベーシック圏論.md",
+    "_Resources/_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
+    "Logs/2025-04-18.md",
+    "_Resources",
+    "加群.md",
+    "線形独立・線形従属.md",
+    "数ベクトル空間の内積.md",
+    "集合.md",
+    "基底.md",
+    "Logs/2025-04-23.md",
+    "Logs/2025-04-21.md",
     "Logs/2025-04-20.md",
+    "Logs/2025-04-19.md",
+    "体.md",
+    "内積.md",
+    "conflict-files-obsidian-git.md",
+    "_Templates/___note_template.md",
+    "_Templates/__Logs-template.md",
     "_Templates/___term_template.md",
     "_Templates/1_story_template.md",
     "_Templates/0_humanity_template.md",
-    "_Templates/0_philosophy_template.md",
-    "_Templates/1_somebook_template.md",
-    "_Templates/Definition-template.md",
-    "_Templates/Theorem-template.md",
-    "_Templates/!_Problem-template.md",
-    "_Templates/_model-template.md",
-    "_Templates/_Laws-template.md",
-    "無題のフォルダ",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
-    "_Resources_PDF",
-    "_Resources_WebPage",
+    "_Resources/_Resources_PDF",
+    "_Resources/_Resources_WebPage",
     "Textbook/my_Text",
     "Textbook/Round-robin",
     "ARCHIVE_Logs",
     "Textbook",
-    "_Resources_Paper",
+    "_Resources/_Resources_Paper",
     "無題のファイル.canvas"
   ]
 }

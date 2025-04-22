@@ -2,14 +2,14 @@
 作成日: 2025-04-23 02:04
 ID: DEF-1745341470
 出典:
-  - "[[DEF-ベクトル空間]]"
+  - "[[RFB-工学教程 ベクトル解析]]"
 ---
 
 # ベクトル空間（Definition）
 
 ## 内容（Definition）
 
-集合 $R$ の任意の元 $\boldsymbol{A} , \boldsymbol{B}$ に対して，和 $\boldsymbol{A} + \boldsymbol{B} \in R$ と，体 $\mathbb{K}$ の任意の元 $a \in \mathbb{K}$ によつスカラー倍 $a \boldsymbol{A} \in R$ が定義されていて，以下のような性質を満たすとき，集合 $R$ を $\mathbb{K}$ 上の **ベクトル空間** または **線形空間** という．
+[[集合]] $R$ の任意の元 $\boldsymbol{A} , \boldsymbol{B}$ に対して，和 $\boldsymbol{A} + \boldsymbol{B} \in R$ と，[[体]] $\mathbb{K}$ の任意の元 $a \in \mathbb{K}$ によつスカラー倍 $a \boldsymbol{A} \in R$ が定義されていて，以下のような性質を満たすとき，集合 $R$ を $\mathbb{K}$ 上の **ベクトル空間** または **線形空間** という．
 
 1. $\boldsymbol{A} + \boldsymbol{B} = \boldsymbol{B} + \boldsymbol{A}$
 2. $(\boldsymbol{A} + \boldsymbol{B}) + \boldsymbol{C} = \boldsymbol{A} + (\boldsymbol{B} + \boldsymbol{C})$
@@ -33,6 +33,9 @@ $\mathbb{K}$ の元は普通は小文字で書かれ， **スカラー** と呼�
 ## 関連項目（Related Notes）
 
 - [[線形独立・線形従属]]
+- [[基底]]
 - [[内積]]
+- [[数ベクトル空間の内積]]
+- [[加群]]
 ---
 #定義 #線形代数 #ベクトル空間

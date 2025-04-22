@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Logs/2025-04-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "2025-04-22"
             }
           }
         ]
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Logs/2025-04-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-21のアウトライン"
+              "title": "2025-04-22のアウトライン"
             }
           },
           {
@@ -223,11 +223,12 @@
   },
   "active": "f31f4a1551904288",
   "lastOpenFiles": [
+    "Logs/2025-04-21.md",
     "Logs/2025-04-22.md",
+    "conflict-files-obsidian-git.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "Notes/Zettelkasten.md",
     "Logs/2025-04-18.md",
-    "Logs/2025-04-21.md",
     "卑下の傲慢.md",
     "_Templates/___note_template.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
@@ -248,7 +249,6 @@
     "_Templates/__Inbox-template.md",
     "_Templates/__Hub-template.md",
     "_Templates/_!Resourse_Book_template.md",
-    "_Templates/_!Resourse_Paper_template.md",
     "無題のフォルダ",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",

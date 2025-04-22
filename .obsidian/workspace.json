@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aINBOX-自己への傲慢.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "aINBOX-自己への傲慢"
-            }
-          },
-          {
-            "id": "f923af9caf19bdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Logs/2025-04-23.md",
                 "mode": "source",
                 "source": false,
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,6 +210,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f3d4bd2abe72c5ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/2025-04-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-04-23へのバックリンク"
+            }
+          },
+          {
+            "id": "dcdb62d677c0bc77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/2025-04-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-04-23からのアウトゴーイングリンク"
+            }
           }
         ],
         "currentTab": 3
@@ -264,15 +273,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "3375bdca514e489d",
+        "id": "c263f4499b91d51b",
         "type": "window",
         "children": [
           {
-            "id": "bd12b987b8447892",
+            "id": "3ee5ab9f05396f59",
             "type": "tabs",
             "children": [
               {
-                "id": "a4201386e30c2740",
+                "id": "f923af9caf19bdb5",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -285,25 +294,25 @@
           }
         ],
         "direction": "vertical",
-        "x": -960,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
+        "x": -1405,
+        "y": 53,
+        "width": 1366,
+        "height": 992,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f923af9caf19bdb5",
+  "active": "945206d8f408e975",
   "lastOpenFiles": [
     "aINBOX-自己への傲慢.md",
+    "Logs/2025-04-23.md",
     "aINBOX-怒りと過去.md",
     "Notes/Zettelkasten.md",
     "Notes/ベクトル空間.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "PRB-円座標系の非圧縮性流体.md",
     "Logs/2025-04-22.md",
-    "Logs/2025-04-23.md",
     "比較の傲慢.md",
     "_Resources/Resources_me.md",
     "Logs/2025-04-18.md",

@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "DEF-ベクトル空間",
-      "path": "DEF-ベクトル空間.md"
+      "path": "Notes/DEF-ベクトル空間.md"
+    },
+    {
+      "basename": "内積",
+      "path": "内積.md"
+    },
+    {
+      "basename": "線形独立・線形従属",
+      "path": "線形独立・線形従属.md"
     },
     {
       "basename": "2025-04-23",

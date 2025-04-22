@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEF-ベクトル空間.md",
+                "file": "Notes/DEF-ベクトル空間.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEF-ベクトル空間.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "DEF-ベクトル空間のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -246,12 +245,14 @@
       }
     ]
   },
-  "active": "050da696feb596b7",
+  "active": "a4201386e30c2740",
   "lastOpenFiles": [
+    "Notes/DEF-ベクトル空間.md",
+    "内積.md",
+    "線形独立・線形従属.md",
     "Logs/2025-04-23.md",
     "Logs/2025-04-22.md",
     "Logs/2025-04-21.md",
-    "DEF-ベクトル空間.md",
     "conflict-files-obsidian-git.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "Notes/Zettelkasten.md",
@@ -272,8 +273,6 @@
     "_Templates/!_Problem-template.md",
     "_Templates/_model-template.md",
     "_Templates/_Laws-template.md",
-    "_Templates/_Experiment-template.md",
-    "_Templates/__Inbox-template.md",
     "無題のフォルダ",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",

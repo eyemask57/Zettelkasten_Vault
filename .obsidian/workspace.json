@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "DEF-ベクトル空間.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "DEF-ベクトル空間"
             }
           }
         ],
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "DEF-ベクトル空間.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-21のアウトライン"
+              "title": "DEF-ベクトル空間のアウトライン"
             }
           },
           {
@@ -248,11 +248,11 @@
   },
   "active": "050da696feb596b7",
   "lastOpenFiles": [
-    "Logs/2025-04-22.md",
     "Logs/2025-04-23.md",
+    "Logs/2025-04-22.md",
+    "Logs/2025-04-21.md",
     "DEF-ベクトル空間.md",
     "conflict-files-obsidian-git.md",
-    "Logs/2025-04-21.md",
     "_Resources_Book/RFB-ベーシック圏論.md",
     "Notes/Zettelkasten.md",
     "Logs/2025-04-18.md",

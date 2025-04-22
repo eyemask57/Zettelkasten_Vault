@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-21.md",
+                "file": "Logs/2025-04-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "2025-04-22"
             }
           }
         ]
@@ -268,8 +268,9 @@
       }
     ]
   },
-  "active": "cfbc4a2113bfae6b",
+  "active": "4c59ce36fbbcae8d",
   "lastOpenFiles": [
+    "Logs/2025-04-21.md",
     "卑下の傲慢.md",
     "_Templates/___term_template.md",
     "_Templates/___note_template.md",
@@ -291,7 +292,6 @@
     "Hamilton方程式.md",
     "Gamma関数.md",
     "Bessel関数.md",
-    "Logs/2025-04-21.md",
     "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
     "Inbox/INBOX-位相と測度.md",
     "Inbox/INBOX-下準備をコンテンツに変える.md",

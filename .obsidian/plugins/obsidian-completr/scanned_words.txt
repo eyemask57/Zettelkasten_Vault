@@ -122,6 +122,8 @@ mm
 mode
 main
 my
+map
+morphism
 file
 followed
 for
@@ -162,11 +164,14 @@ and
 automatically
 available
 above
+arrow
 commit
 commands
 conflicted
 conflicts
 completr
+category
+composition
 will
 workspace
 with
@@ -175,7 +180,9 @@ obsidian
 occurrence
 of
 origin
+object
 json
 in
+identity
 each
 every

@@ -284,10 +284,24 @@
                 "id": "f923af9caf19bdb5",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Logs/2025-04-23.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-23"
                 }
               }
             ]
@@ -303,7 +317,7 @@
       }
     ]
   },
-  "active": "945206d8f408e975",
+  "active": "f923af9caf19bdb5",
   "lastOpenFiles": [
     "aINBOX-自己への傲慢.md",
     "Logs/2025-04-23.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-23.md",
+                "file": "Notes/ベクトル空間.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "ベクトル空間"
             }
           },
           {
@@ -231,8 +231,8 @@
   },
   "active": "723d3cb737da617d",
   "lastOpenFiles": [
-    "圏.md",
     "Logs/2025-04-23.md",
+    "圏.md",
     "無題のフォルダ",
     "aINBOX-自己への傲慢.md",
     "conflict-files-obsidian-git.md",

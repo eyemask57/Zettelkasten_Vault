@@ -99,6 +99,8 @@ Merits
 mm
 mode
 main
+map
+morphism
 file
 followed
 files
@@ -132,11 +134,14 @@ and
 automatically
 available
 above
+arrow
 commit
 commands
 completr
 conflicted
 conflicts
+category
+composition
 will
 words
 workspace
@@ -145,7 +150,9 @@ obsidian
 occurrence
 of
 origin
+object
 json
 in
+identity
 each
 every

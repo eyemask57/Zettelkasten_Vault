@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ベクトル空間.md",
+                "file": "Notes/圏.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ベクトル空間"
-            }
-          },
-          {
-            "id": "778a9dc973ac5245",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "title": "圏"
             }
           }
         ]
@@ -229,10 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723d3cb737da617d",
+  "active": "685a1d4f83d20f2b",
   "lastOpenFiles": [
+    "関手.md",
+    "Notes/圏.md",
+    "写像.md",
+    "Notes/ベクトル空間.md",
+    "内積.md",
     "Logs/2025-04-23.md",
-    "圏.md",
     "無題のフォルダ",
     "aINBOX-自己への傲慢.md",
     "conflict-files-obsidian-git.md",
@@ -253,13 +247,9 @@
     "_Resources/_Resources_Book",
     "_Resources/Resources_me.md",
     "_Resources",
-    "Notes/ベクトル空間.md",
     "Logs/2025-04-22.md",
     "Logs/2025-04-21.md",
     "卑下の傲慢.md",
-    "_Templates/___term_template.md",
-    "_Templates/___note_template.md",
-    "_Templates/1_story_template.md",
     "_Resources_PDF",
     "_Resources_WebPage",
     "Textbook/my_Text",

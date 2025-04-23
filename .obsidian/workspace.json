@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "conflict-files-obsidian-git"
             }
           },
           {
@@ -303,6 +303,30 @@
                   "icon": "lucide-file",
                   "title": "2025-04-23"
                 }
+              },
+              {
+                "id": "86c4e0e6c943bf5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
+                }
               }
             ]
           }
@@ -317,10 +341,15 @@
       }
     ]
   },
-  "active": "f923af9caf19bdb5",
+  "active": "945206d8f408e975",
   "lastOpenFiles": [
-    "aINBOX-自己への傲慢.md",
     "Logs/2025-04-23.md",
+    "conflict-files-obsidian-git.md",
+    "関手.md",
+    "写像.md",
+    "内積.md",
+    "Notes/圏.md",
+    "aINBOX-自己への傲慢.md",
     "aINBOX-怒りと過去.md",
     "Notes/Zettelkasten.md",
     "Notes/ベクトル空間.md",
@@ -341,11 +370,6 @@
     "集合.md",
     "基底.md",
     "Logs/2025-04-21.md",
-    "Logs/2025-04-20.md",
-    "内積.md",
-    "conflict-files-obsidian-git.md",
-    "_Templates/___note_template.md",
-    "_Templates/__Logs-template.md",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",
     "_Resources/_Resources_PDF",

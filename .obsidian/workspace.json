@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "061d094327b0b46a",
+        "id": "5a7d185d11f1d668",
         "type": "tabs",
         "children": [
           {
-            "id": "f31f4a1551904288",
+            "id": "723d3cb737da617d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-22.md",
+                "file": "Logs/2025-04-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
-            }
-          },
-          {
-            "id": "050da696feb596b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-04-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-23"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#undone",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -139,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-22.md",
+                "file": "_Resources_Book/工学教程 ベクトル解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-22のアウトライン"
+              "title": "工学教程 ベクトル解析のアウトライン"
             }
           },
           {
@@ -186,6 +161,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ba0332f06adadd5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/2025-04-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-04-21へのバックリンク"
+            }
+          },
+          {
+            "id": "d2217b0912c12d03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logs/2025-04-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-04-21からのアウトゴーイングリンク"
+            }
           }
         ],
         "currentTab": 3
@@ -211,72 +219,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "9b9481839773125e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3375bdca514e489d",
-        "type": "window",
-        "children": [
-          {
-            "id": "bd12b987b8447892",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a4201386e30c2740",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "050da696feb596b7",
+  "active": "723d3cb737da617d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Logs/2025-04-23.md",
     "Logs/2025-04-22.md",
     "Logs/2025-04-21.md",
-    "_Resources_Book/RFB-ベーシック圏論.md",
-    "Notes/Zettelkasten.md",
-    "Logs/2025-04-18.md",
     "卑下の傲慢.md",
-    "_Templates/___note_template.md",
-    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "_Templates/__Logs-template.md",
-    "Logs/2025-04-19.md",
-    "Logs/2025-04-20.md",
     "_Templates/___term_template.md",
+    "_Templates/___note_template.md",
     "_Templates/1_story_template.md",
-    "_Templates/0_humanity_template.md",
-    "_Templates/0_philosophy_template.md",
     "_Templates/1_somebook_template.md",
-    "_Templates/Definition-template.md",
-    "_Templates/Theorem-template.md",
-    "_Templates/!_Problem-template.md",
-    "_Templates/_model-template.md",
-    "_Templates/_Laws-template.md",
-    "_Templates/_Experiment-template.md",
-    "_Templates/__Inbox-template.md",
-    "_Templates/__Hub-template.md",
-    "_Templates/_!Resourse_Book_template.md",
-    "無題のフォルダ",
-    "to-write",
-    "Textbook/Round-robin/phys-解析力学",
+    "_Templates/0_philosophy_template.md",
+    "_Templates/0_humanity_template.md",
+    "_Resources_Book/RFB-量子力学を学ぶための解析力学入門 増補第2版.md",
+    "_Resources_Book/RFB-考える力学 第2版.md",
+    "_Resources_Book/RFB-測度・確率・ルベーグ積分.md",
+    "_Resources_Book/RFB-工学教程 ベクトル解析.md",
+    "_Resources_Book/RFB-ベーシック圏論.md",
+    "_Resources_Book/RFB-「集合と位相」をなぜ学ぶのか.md",
+    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "Notes/Zettelkasten.md",
+    "Lagrange方程式.md",
+    "Inbox/INBOX-駆動式本棚.md",
+    "Hamilton方程式.md",
+    "Gamma関数.md",
+    "Bessel関数.md",
+    "Notes/LAW-非圧縮性流れのNavier-Stokes方程式.md",
+    "Inbox/INBOX-位相と測度.md",
+    "Inbox/INBOX-下準備をコンテンツに変える.md",
     "_Resources_PDF",
     "_Resources_WebPage",
     "Textbook/my_Text",
@@ -284,6 +254,9 @@
     "ARCHIVE_Logs",
     "Textbook",
     "_Resources_Paper",
+    "LANGUAGE",
+    "04_コンピュータ",
+    "Notes",
     "無題のファイル.canvas"
   ]
 }

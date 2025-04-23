@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "圏",
-      "path": "Notes/圏.md"
+      "basename": "「集合と位相」をなぜ学ぶのか",
+      "path": "_Resources/_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
+    },
+    {
+      "basename": "ベーシック圏論",
+      "path": "_Resources/_Resources_Book/ベーシック圏論.md"
+    },
+    {
+      "basename": "工学教程 ベクトル解析",
+      "path": "_Resources/_Resources_Book/工学教程 ベクトル解析.md"
+    },
+    {
+      "basename": "考える力学 第2版",
+      "path": "_Resources/_Resources_Book/考える力学 第2版.md"
+    },
+    {
+      "basename": "測度・確率・ルベーグ積分",
+      "path": "_Resources/_Resources_Book/測度・確率・ルベーグ積分.md"
+    },
+    {
+      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
+      "path": "_Resources/_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
+    },
+    {
+      "basename": "赤雪江",
+      "path": "_Resources/_Resources_Book/赤雪江.md"
+    },
+    {
+      "basename": "群",
+      "path": "群.md"
+    },
+    {
+      "basename": "aINBOX-怒りと過去",
+      "path": "aINBOX-怒りと過去.md"
+    },
+    {
+      "basename": "流体運動の記述",
+      "path": "流体運動の記述.md"
+    },
+    {
+      "basename": "流体力学 第2版",
+      "path": "_Resources/_Resources_Book/流体力学 第2版.md"
     },
     {
       "basename": "2025-04-23",
       "path": "Logs/2025-04-23.md"
+    },
+    {
+      "basename": "巽流体力学",
+      "path": "_Resources/_Resources_Book/巽流体力学.md"
+    },
+    {
+      "basename": "非圧縮性流れのNavier-Stokes方程式",
+      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
+    },
+    {
+      "basename": "圏",
+      "path": "Notes/圏.md"
     },
     {
       "basename": "関手",

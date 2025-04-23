@@ -91,6 +91,7 @@ ss
 strongly
 simple
 scanned
+space
 Vauls
 Validity
 Zettelkasten
@@ -127,6 +128,7 @@ main
 my
 map
 morphism
+md
 file
 followed
 for
@@ -146,6 +148,7 @@ Connectivity
 Conflicts
 vs
 viewing
+vector
 Form
 Fleeting
 For
@@ -154,6 +157,7 @@ head
 lernu
 list
 listed
+linear
 undone
 using
 use
@@ -169,6 +173,8 @@ automatically
 available
 above
 arrow
+abelian
+additive
 commit
 commands
 conflicted
@@ -176,6 +182,7 @@ conflicts
 completr
 category
 composition
+commutative
 will
 workspace
 with
@@ -190,3 +197,4 @@ in
 identity
 each
 every
+group

@@ -4,7 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "出典": "multitext",
-    "重要度": "number",
     "訳者": "multitext",
     "アクセス日": "date",
     "作成日": "datetime",

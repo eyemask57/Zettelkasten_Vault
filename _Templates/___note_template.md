@@ -6,6 +6,7 @@ ID: NOTE-<% tp.date.now("X") %>
 
 # <% tp.file.title %>
 
+## 関連項目（Related Notes）
 
 ---
 #Note 

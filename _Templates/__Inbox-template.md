@@ -1,7 +1,6 @@
 ---
 作成日: <% tp.date.now("YYYY-MM-DD HH:mm:ss") %>
 ID: INBOX-<% tp.date.now("x") %>
-重要度: 
 出典:
 ---
 

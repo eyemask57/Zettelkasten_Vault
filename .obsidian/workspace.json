@@ -32,22 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5e519aa95d849f9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f7ea7482578cab8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +63,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "アクティブでなくなったプラグイン"
             }
           },
           {
@@ -222,21 +206,22 @@
     "hiddenItems": {
       "random-note:ランダムノートを開く": false,
       "workspaces:ワークスペースレイアウトを管理": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "publish:パブリッシュによる変更の公開": false,
       "templates:テンプレートを挿入": false,
-      "obsidian-git:Open Git source control": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "zk-prefixer:新規ユニークノートの作成": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3f7ea7482578cab8",
+  "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
+    "Logs/2025-04-24.md",
     "Logs/2025-04-29.md",
     "巡回置換と互換.md",
     "_Templates/Definition-template.md",
@@ -257,7 +242,6 @@
     "Logs/2025-04-21.md",
     "Logs/2025-04-22.md",
     "Logs/2025-04-23.md",
-    "Logs/2025-04-24.md",
     "Logs/2025-04-25.md",
     "_Templates/__Logs-template.md",
     "Notes/距離空間.md",

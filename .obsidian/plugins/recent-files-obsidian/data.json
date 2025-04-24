@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "グルッペン・ペスト",
+      "path": "グルッペン・ペスト.md"
+    },
+    {
+      "basename": "2025-04-24",
+      "path": "Logs/2025-04-24.md"
+    },
+    {
+      "basename": "群と物理",
+      "path": "_Resources/_Resources_Book/群と物理.md"
+    },
+    {
       "basename": "流体運動の記述",
       "path": "流体運動の記述.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "群の位数",
       "path": "群の位数.md"
-    },
-    {
-      "basename": "2025-04-24",
-      "path": "Logs/2025-04-24.md"
     }
   ],
   "omittedPaths": [],

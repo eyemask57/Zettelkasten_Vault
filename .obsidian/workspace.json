@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "流体運動の記述"
             }
+          },
+          {
+            "id": "23e67703144100a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "グルッペン・ペスト.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "グルッペン・ペスト"
+            }
+          },
+          {
+            "id": "332a15ed752da708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "グルッペン・ペスト.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "グルッペン・ペスト"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,16 +303,18 @@
       }
     ]
   },
-  "active": "745be53984cc9e71",
+  "active": "5e84db07c0989ef0",
   "lastOpenFiles": [
-    "ベクトル(曖昧さ回避).md",
+    "グルッペン・ペスト.md",
+    "Logs/2025-04-24.md",
+    "_Resources/_Resources_Book/群と物理.md",
     "流体運動の記述.md",
+    "ベクトル(曖昧さ回避).md",
     "比較の傲慢.md",
     "集合.md",
     "数ベクトル空間の内積.md",
     "写像.md",
     "群の位数.md",
-    "Logs/2025-04-24.md",
     "加群.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Resources/Resources_me.md",
@@ -280,8 +331,6 @@
     "関手.md",
     "基底.md",
     "ポーランド記法.md",
-    "Inbox/INBOX-駆動式本棚.md",
-    "Inbox/INBOX-流体力学のラグラジアン.md",
     "_Resources",
     "to-write",
     "Textbook/Round-robin/phys-解析力学",

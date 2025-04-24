@@ -8,8 +8,8 @@ ID: NOTE-1745241305
 
 ## Zettelkastenとは
 
-- ドイツの社会学者の **Niklas Luhmann** (1927-1998) によって考案される 
-	- - Niklas Luhmann は Zettelkasten によって 70冊以上の著書と400以上の論文を執筆していた．
+- ドイツの社会学者の [[Niklas Luhmann]] (1927-1998) によって考案される 
+	- Niklas Luhmann は Zettelkasten によって 70冊以上の著書と400以上の論文を執筆していた．
 	- NiklasのZettel自体は90,000枚以上に及び，全てが相互にリンクしていた．
 - 「Zettel」は紙片，「Kasten」は箱を指し，直訳すれば「紙片の箱」
 - Zettelkastenの本質は，情報動詞をつなぎ合わせて**新しい発想を誘発**するためのツール
@@ -64,7 +64,7 @@ ID: NOTE-1745241305
 ## 関連事項
 
 - [[図書館学]]
-- 
+- [[Niklas Luhmann]]
 
 ---
-#Note #情報整理 #Zettelkasten #Niklas_Luhmann 
+#Note #情報整理 #Zettelkasten 

@@ -17,6 +17,8 @@
     "出版社": "text",
     "出版年／月": "date",
     "編集": "multitext",
-    "初刷出版年": "number"
+    "初刷出版年": "number",
+    "出生年": "number",
+    "没年": "number"
   }
 }

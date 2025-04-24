@@ -1,40 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "グルッペン・ペスト",
-      "path": "グルッペン・ペスト.md"
-    },
-    {
-      "basename": "2025-04-24",
-      "path": "Logs/2025-04-24.md"
-    },
-    {
-      "basename": "群と物理",
-      "path": "_Resources/_Resources_Book/群と物理.md"
+      "basename": "運動の法則",
+      "path": "運動の法則.md"
     },
     {
       "basename": "流体運動の記述",
       "path": "流体運動の記述.md"
     },
     {
-      "basename": "ベクトル(曖昧さ回避)",
-      "path": "ベクトル(曖昧さ回避).md"
+      "basename": "同値関係",
+      "path": "同値関係.md"
     },
     {
-      "basename": "比較の傲慢",
-      "path": "比較の傲慢.md"
+      "basename": "体",
+      "path": "体.md"
     },
     {
       "basename": "集合",
       "path": "集合.md"
     },
     {
-      "basename": "写像",
-      "path": "写像.md"
-    },
-    {
       "basename": "群の位数",
       "path": "群の位数.md"
+    },
+    {
+      "basename": "Niklas Luhmann",
+      "path": "People/Niklas Luhmann.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "Notes/Zettelkasten.md"
+    },
+    {
+      "basename": "Sir Isaac Newton",
+      "path": "People/Sir Isaac Newton.md"
+    },
+    {
+      "basename": "写像",
+      "path": "Notes/写像.md"
+    },
+    {
+      "basename": "ベクトル空間",
+      "path": "Notes/ベクトル空間.md"
+    },
+    {
+      "basename": "アーベル群",
+      "path": "Notes/アーベル群.md"
+    },
+    {
+      "basename": "「集合と位相」をなぜ学ぶのか",
+      "path": "Resources/_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
+    },
+    {
+      "basename": "二項関係",
+      "path": "Notes/二項関係.md"
+    },
+    {
+      "basename": "非圧縮性流れのNavier-Stokes方程式",
+      "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
+    },
+    {
+      "basename": "演算",
+      "path": "Notes/演算.md"
+    },
+    {
+      "basename": "圏",
+      "path": "Notes/圏.md"
+    },
+    {
+      "basename": "赤雪江",
+      "path": "Resources/_Resources_Book/赤雪江.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "群・環・体　入門",
+      "path": "Resources/_Resources_Book/群・環・体　入門.md"
+    },
+    {
+      "basename": "群",
+      "path": "Notes/群.md"
+    },
+    {
+      "basename": "グルッペン・ペスト",
+      "path": "Notes/グルッペン・ペスト.md"
+    },
+    {
+      "basename": "2025-04-24",
+      "path": "Logs/2025-04-24.md"
+    },
+    {
+      "basename": "INBOX-自己への傲慢",
+      "path": "Inbox/INBOX-自己への傲慢.md"
+    },
+    {
+      "basename": "INBOX-怒りと過去",
+      "path": "Inbox/INBOX-怒りと過去.md"
+    },
+    {
+      "basename": "群と物理",
+      "path": "Resources/_Resources_Book/群と物理.md"
     }
   ],
   "omittedPaths": [],

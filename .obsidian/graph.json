@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "力学",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,14 +9,14 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 0.661458333333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.559375,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.473958333333333,
-  "repelStrength": 10.1041666666667,
+  "centerStrength": 0.4375,
+  "repelStrength": 11.3541666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5983441810899736,
+  "scale": 0.8854989543150559,
   "close": false
 }

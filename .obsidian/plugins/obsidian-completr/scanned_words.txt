@@ -17,6 +17,7 @@ Ideas
 Investigate
 ISBN
 Instructions
+Isaac
 DEF
 Definition
 DD
@@ -30,6 +31,7 @@ NFT
 NOTE
 Niklas
 Not
+Newton
 Stokes
 Setup
 Statement
@@ -38,6 +40,7 @@ Solution
 STR
 SBK
 Source
+Sir
 Examples
 EXP
 Experiment
@@ -82,12 +85,14 @@ plugin
 project
 plugins
 particle
+place
 board
 by
 be
 before
 below
 blocks
+binary
 settings
 ss
 strongly
@@ -116,6 +121,7 @@ done
 do
 deleted
 desired
+dyadic
 now
 YYYY
 YYYYMMDDHHmmss
@@ -131,6 +137,8 @@ my
 map
 morphism
 md
+mapping
+motion
 file
 followed
 for
@@ -160,6 +168,7 @@ lernu
 list
 listed
 linear
+laws
 undone
 using
 use
@@ -170,6 +179,7 @@ Kasten
 resolve
 recommend
 replace
+relation
 and
 automatically
 available

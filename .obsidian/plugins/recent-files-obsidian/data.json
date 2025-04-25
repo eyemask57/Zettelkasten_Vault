@@ -1,36 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "運動の法則",
-      "path": "運動の法則.md"
+      "basename": "群",
+      "path": "Notes/群.md"
     },
     {
-      "basename": "流体運動の記述",
-      "path": "流体運動の記述.md"
-    },
-    {
-      "basename": "同値関係",
-      "path": "同値関係.md"
-    },
-    {
-      "basename": "体",
-      "path": "体.md"
+      "basename": "位数",
+      "path": "Notes/位数.md"
     },
     {
       "basename": "集合",
       "path": "集合.md"
     },
     {
-      "basename": "群の位数",
-      "path": "群の位数.md"
+      "basename": "体",
+      "path": "体.md"
     },
     {
-      "basename": "Niklas Luhmann",
-      "path": "People/Niklas Luhmann.md"
+      "basename": "同値関係",
+      "path": "同値関係.md"
+    },
+    {
+      "basename": "Lagrange方程式",
+      "path": "Lagrange方程式.md"
+    },
+    {
+      "basename": "Lagrange式時間微分",
+      "path": "Lagrange式時間微分.md"
+    },
+    {
+      "basename": "MFSS2019_集合・濃度・順序数・基数",
+      "path": "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md"
+    },
+    {
+      "basename": "ベクトル空間",
+      "path": "Notes/ベクトル空間.md"
+    },
+    {
+      "basename": "_!Resourse_PDF_template",
+      "path": "_Templates/_!Resourse_PDF_template.md"
+    },
+    {
+      "basename": "PDF-集合・濃度・順序数・基数",
+      "path": "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf"
+    },
+    {
+      "basename": "数学基礎論サマースクール",
+      "path": "_Resources_WebPage/数学基礎論サマースクール.md"
+    },
+    {
+      "basename": "アーベル群",
+      "path": "Notes/アーベル群.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Zettelkasten",
       "path": "Notes/Zettelkasten.md"
+    },
+    {
+      "basename": "Newtonの運動方程式",
+      "path": "Notes/Newtonの運動方程式.md"
+    },
+    {
+      "basename": "__Hub-template",
+      "path": "_Templates/__Hub-template.md"
+    },
+    {
+      "basename": "_!Resourse_Book_template",
+      "path": "_Templates/_!Resourse_Book_template.md"
+    },
+    {
+      "basename": "___term_template",
+      "path": "_Templates/___term_template.md"
+    },
+    {
+      "basename": "2025-04-18",
+      "path": "Logs/2025-04-18.md"
+    },
+    {
+      "basename": "2025-04-19",
+      "path": "Logs/2025-04-19.md"
+    },
+    {
+      "basename": "2025-04-20",
+      "path": "Logs/2025-04-20.md"
+    },
+    {
+      "basename": "2025-04-21",
+      "path": "Logs/2025-04-21.md"
+    },
+    {
+      "basename": "2025-04-22",
+      "path": "Logs/2025-04-22.md"
+    },
+    {
+      "basename": "2025-04-23",
+      "path": "Logs/2025-04-23.md"
+    },
+    {
+      "basename": "2025-04-24",
+      "path": "Logs/2025-04-24.md"
+    },
+    {
+      "basename": "2025-04-25",
+      "path": "Logs/2025-04-25.md"
+    },
+    {
+      "basename": "2025-04-26",
+      "path": "Logs/2025-04-26.md"
+    },
+    {
+      "basename": "流体運動の記述",
+      "path": "Notes/流体運動の記述.md"
+    },
+    {
+      "basename": "INBOX-片手キーボード",
+      "path": "Inbox/INBOX-片手キーボード.md"
+    },
+    {
+      "basename": "運動の法則",
+      "path": "Notes/運動の法則.md"
+    },
+    {
+      "basename": "ランダウ=リフシッツ 力学",
+      "path": "_Resources_Book/ランダウ=リフシッツ 力学.md"
+    },
+    {
+      "basename": "グルッペン・ペスト",
+      "path": "Notes/グルッペン・ペスト.md"
+    },
+    {
+      "basename": "「集合と位相」をなぜ学ぶのか",
+      "path": "_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
+    },
+    {
+      "basename": "ベーシック圏論",
+      "path": "_Resources_Book/ベーシック圏論.md"
+    },
+    {
+      "basename": "群・環・体　入門",
+      "path": "_Resources_Book/群・環・体　入門.md"
+    },
+    {
+      "basename": "群と物理",
+      "path": "_Resources_Book/群と物理.md"
+    },
+    {
+      "basename": "工学教程 ベクトル解析",
+      "path": "_Resources_Book/工学教程 ベクトル解析.md"
+    },
+    {
+      "basename": "考える力学 第2版",
+      "path": "_Resources_Book/考える力学 第2版.md"
+    },
+    {
+      "basename": "赤雪江",
+      "path": "_Resources_Book/赤雪江.md"
+    },
+    {
+      "basename": "測度・確率・ルベーグ積分",
+      "path": "_Resources_Book/測度・確率・ルベーグ積分.md"
+    },
+    {
+      "basename": "巽流体力学",
+      "path": "_Resources_Book/巽流体力学.md"
+    },
+    {
+      "basename": "物理入門 力学",
+      "path": "_Resources_Book/物理入門 力学.md"
+    },
+    {
+      "basename": "量子力学を学ぶための解析力学入門 増補第2版",
+      "path": "_Resources_Book/量子力学を学ぶための解析力学入門 増補第2版.md"
+    },
+    {
+      "basename": "流体力学 第2版",
+      "path": "_Resources_Book/流体力学 第2版.md"
+    },
+    {
+      "basename": "Niklas Luhmann",
+      "path": "People/Niklas Luhmann.md"
     },
     {
       "basename": "Sir Isaac Newton",
@@ -41,68 +193,12 @@
       "path": "Notes/写像.md"
     },
     {
-      "basename": "ベクトル空間",
-      "path": "Notes/ベクトル空間.md"
-    },
-    {
-      "basename": "アーベル群",
-      "path": "Notes/アーベル群.md"
-    },
-    {
-      "basename": "「集合と位相」をなぜ学ぶのか",
-      "path": "Resources/_Resources_Book/「集合と位相」をなぜ学ぶのか.md"
-    },
-    {
       "basename": "二項関係",
       "path": "Notes/二項関係.md"
     },
     {
       "basename": "非圧縮性流れのNavier-Stokes方程式",
       "path": "Notes/非圧縮性流れのNavier-Stokes方程式.md"
-    },
-    {
-      "basename": "演算",
-      "path": "Notes/演算.md"
-    },
-    {
-      "basename": "圏",
-      "path": "Notes/圏.md"
-    },
-    {
-      "basename": "赤雪江",
-      "path": "Resources/_Resources_Book/赤雪江.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "群・環・体　入門",
-      "path": "Resources/_Resources_Book/群・環・体　入門.md"
-    },
-    {
-      "basename": "群",
-      "path": "Notes/群.md"
-    },
-    {
-      "basename": "グルッペン・ペスト",
-      "path": "Notes/グルッペン・ペスト.md"
-    },
-    {
-      "basename": "2025-04-24",
-      "path": "Logs/2025-04-24.md"
-    },
-    {
-      "basename": "INBOX-自己への傲慢",
-      "path": "Inbox/INBOX-自己への傲慢.md"
-    },
-    {
-      "basename": "INBOX-怒りと過去",
-      "path": "Inbox/INBOX-怒りと過去.md"
-    },
-    {
-      "basename": "群と物理",
-      "path": "Resources/_Resources_Book/群と物理.md"
     }
   ],
   "omittedPaths": [],

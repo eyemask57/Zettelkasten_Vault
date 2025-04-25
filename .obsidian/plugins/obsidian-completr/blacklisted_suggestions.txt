@@ -1,0 +1,12 @@
+\varpi
+\varPi
+\varXi
+\varphi
+\varPhi
+\varPsi
+\varrho
+\varDelta
+\varGamma
+\varkappa
+\varOmega
+\varsigma

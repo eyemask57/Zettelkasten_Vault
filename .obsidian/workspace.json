@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc4ea305eff9494c",
+        "id": "c4f645d1f1742564",
         "type": "tabs",
         "children": [
           {
-            "id": "745be53984cc9e71",
+            "id": "3ecf0b48e0b5aa5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/位数.md",
+                "file": "Notes/群.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "位数"
+              "title": "群"
             }
           },
           {
-            "id": "5af40d687364d5df",
+            "id": "5953d3b36db1f7ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/位数.md",
+                "file": "Lagrange式時間微分.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,48 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "位数"
+              "title": "Lagrange式時間微分"
+            }
+          },
+          {
+            "id": "ae3350990a8bdead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/簡約法則.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "簡約法則"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a44fc41968d37217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8baa9b8b508f30a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -243,82 +284,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "9b9481839773125e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e8923edc62c68cc3",
-        "type": "window",
-        "children": [
-          {
-            "id": "013383f7672236df",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "42509ae1cfd9b8f4",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
-                }
-              },
-              {
-                "id": "64144b59e4966a6d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/群.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "群"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": -960,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "64144b59e4966a6d",
+  "active": "5953d3b36db1f7ad",
   "lastOpenFiles": [
-    "Notes/位数.md",
+    "Lagrange方程式.md",
+    "Lagrange式時間微分.md",
+    "逆元の一意性.md",
     "集合.md",
     "体.md",
     "同値関係.md",
-    "Lagrange方程式.md",
-    "Lagrange式時間微分.md",
+    "README.md",
+    "Notes/PRB-簡約法則の例.md",
+    "Notes/簡約法則.md",
+    "Notes/群.md",
+    "Notes/両側単位元の一意性.md",
+    "Logs/2025-04-26.md",
+    "Notes/結合法則のある演算の順序.md",
+    "Notes/アーベル群.md",
+    "Notes/位数.md",
     "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md",
     "Notes/ベクトル空間.md",
     "_Templates/_!Resourse_PDF_template.md",
     "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "_Resources_WebPage/数学基礎論サマースクール.md",
-    "Notes/群.md",
-    "Notes/アーベル群.md",
-    "README.md",
     "Notes/Zettelkasten.md",
     "Notes/Newtonの運動方程式.md",
     "_Templates/__Hub-template.md",
@@ -326,12 +313,6 @@
     "_Templates/___term_template.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
-    "Logs/2025-04-20.md",
-    "Logs/2025-04-21.md",
-    "Logs/2025-04-22.md",
-    "Logs/2025-04-23.md",
-    "Logs/2025-04-24.md",
-    "Logs/2025-04-25.md",
     "People",
     "HUB",
     "_Resources",

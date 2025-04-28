@@ -2,6 +2,7 @@
 作成日: 2025-04-20 10:59
 ID: LAW-1745114373
 出典:
+  - "[[Resources_my_friend]]"
 ---
 
 # 非圧縮性流れのNavier-Stokes方程式（Definition）

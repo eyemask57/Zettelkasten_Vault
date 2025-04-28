@@ -6,14 +6,15 @@
       {
         "id": "c4f645d1f1742564",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "3ecf0b48e0b5aa5d",
+            "id": "b88c9571e2a91fdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/群.md",
+                "file": "Logs/2025-04-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,72 +29,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "群"
-            }
-          },
-          {
-            "id": "5953d3b36db1f7ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lagrange式時間微分.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lagrange式時間微分"
-            }
-          },
-          {
-            "id": "ae3350990a8bdead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/簡約法則.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "簡約法則"
+              "title": "2025-04-29"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a44fc41968d37217",
+        "id": "8c53672f2ed64807",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "c8baa9b8b508f30a",
+            "id": "5ac807be16a196c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -138,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#流体力学",
+                "query": "tag:#線形代数",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,35 +237,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5953d3b36db1f7ad",
+  "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
-    "Lagrange方程式.md",
-    "Lagrange式時間微分.md",
-    "逆元の一意性.md",
-    "集合.md",
-    "体.md",
-    "同値関係.md",
-    "README.md",
-    "Notes/PRB-簡約法則の例.md",
-    "Notes/簡約法則.md",
-    "Notes/群.md",
-    "Notes/両側単位元の一意性.md",
-    "Logs/2025-04-26.md",
-    "Notes/結合法則のある演算の順序.md",
-    "Notes/アーベル群.md",
-    "Notes/位数.md",
-    "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md",
-    "Notes/ベクトル空間.md",
-    "_Templates/_!Resourse_PDF_template.md",
-    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
-    "_Resources_WebPage/数学基礎論サマースクール.md",
-    "Notes/Zettelkasten.md",
-    "Notes/Newtonの運動方程式.md",
-    "_Templates/__Hub-template.md",
-    "_Templates/_!Resourse_Book_template.md",
-    "_Templates/___term_template.md",
+    "Logs/2025-04-28.md",
+    "Logs/2025-04-29.md",
+    "Logs/2025-04-27.md",
     "Logs/2025-04-18.md",
     "Logs/2025-04-19.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-21.md",
+    "Logs/2025-04-22.md",
+    "Logs/2025-04-23.md",
+    "Logs/2025-04-24.md",
+    "Logs/2025-04-25.md",
+    "Logs/2025-04-26.md",
+    "_Templates/__Logs-template.md",
+    "Notes/距離空間.md",
+    "Notes/距離.md",
+    "位相.md",
+    "_Resources_Book/代数トポロジーの基礎.md",
+    "_Resources_Book/詳解　物理学演習　上.md",
+    "Notes/3次元ベクトルの分解.md",
+    "Notes/置換と互換.md",
+    "巡回置換と互換.md",
+    "Notes/対称群.md",
+    "Notes/互換.md",
+    "Notes/置換.md",
+    "Notes/巡回置換.md",
+    "Notes/位数.md",
+    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",
     "_Resources",

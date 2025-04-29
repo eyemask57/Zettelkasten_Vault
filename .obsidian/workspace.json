@@ -11,10 +11,24 @@
             "id": "b88c9571e2a91fdb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-04-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-23"
             }
           }
         ]
@@ -100,12 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logs/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-04-23のアウトライン"
             }
           },
           {
@@ -206,14 +221,26 @@
   },
   "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
+    "Logs/2025-04-29.md",
+    "_Templates/_Laws-template.md",
+    "_Templates/_!Resourse_PDF_template.md",
+    "_Templates/_Experiment-template.md",
+    "_Templates/_!Resourse_Paper_template.md",
+    "_Templates/__Logs-template.md",
+    "_Templates/__People_template.md",
+    "巡回置換と互換.md",
+    "Notes/互換.md",
+    "同値関係.md",
+    "体.md",
+    "位相.md",
+    "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md",
+    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "Notes/アーベル群.md",
     "Notes/演算.md",
     "Notes/写像.md",
     "Notes/グルッペン・ペスト.md",
     "Notes/位数.md",
     "Notes/圏.md",
-    "Logs/2025-04-29.md",
-    "巡回置換と互換.md",
     "Logs/2025-04-24.md",
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
@@ -221,18 +248,6 @@
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Resources_Book/巽流体力学.md",
-    "_Templates/_Experiment-template.md",
-    "Notes/ベクトル空間.md",
-    "Logs/2025-04-26.md",
-    "Logs/2025-04-27.md",
-    "Logs/2025-04-28.md",
-    "Logs/2025-04-18.md",
-    "Logs/2025-04-19.md",
-    "Logs/2025-04-20.md",
-    "Logs/2025-04-21.md",
-    "Logs/2025-04-22.md",
-    "Logs/2025-04-23.md",
-    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",
     "_Resources",

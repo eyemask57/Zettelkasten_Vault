@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "アーベル群",
+      "path": "Notes/アーベル群.md"
+    },
+    {
+      "basename": "演算",
+      "path": "Notes/演算.md"
+    },
+    {
+      "basename": "写像",
+      "path": "Notes/写像.md"
+    },
+    {
+      "basename": "グルッペン・ペスト",
+      "path": "Notes/グルッペン・ペスト.md"
+    },
+    {
+      "basename": "位数",
+      "path": "Notes/位数.md"
+    },
+    {
+      "basename": "圏",
+      "path": "Notes/圏.md"
+    },
+    {
       "basename": "2025-04-29",
       "path": "Logs/2025-04-29.md"
+    },
+    {
+      "basename": "巡回置換と互換",
+      "path": "巡回置換と互換.md"
     }
   ],
   "omittedPaths": [],

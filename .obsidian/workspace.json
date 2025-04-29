@@ -11,24 +11,10 @@
             "id": "b88c9571e2a91fdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-04-29.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-29"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -114,13 +100,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-23のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -221,15 +206,20 @@
   },
   "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
-    "Logs/2025-04-24.md",
+    "Notes/アーベル群.md",
+    "Notes/演算.md",
+    "Notes/写像.md",
+    "Notes/グルッペン・ペスト.md",
+    "Notes/位数.md",
+    "Notes/圏.md",
     "Logs/2025-04-29.md",
     "巡回置換と互換.md",
+    "Logs/2025-04-24.md",
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
     "_Resources_WebPage/数学基礎論サマースクール.md",
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "Notes/圏.md",
     "_Resources_Book/巽流体力学.md",
     "_Templates/_Experiment-template.md",
     "Notes/ベクトル空間.md",
@@ -242,11 +232,6 @@
     "Logs/2025-04-21.md",
     "Logs/2025-04-22.md",
     "Logs/2025-04-23.md",
-    "Logs/2025-04-25.md",
-    "_Templates/__Logs-template.md",
-    "Notes/距離空間.md",
-    "Notes/距離.md",
-    "位相.md",
     "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",

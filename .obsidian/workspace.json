@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-23.md",
+                "file": "Logs/2025-04-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "2025-04-29"
             }
           }
         ]
@@ -63,8 +63,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "アクティブでなくなったプラグイン"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -206,48 +206,48 @@
     "hiddenItems": {
       "random-note:ランダムノートを開く": false,
       "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "command-palette:コマンドパレットを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "publish:パブリッシュによる変更の公開": false,
       "templates:テンプレートを挿入": false,
+      "obsidian-git:Open Git source control": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "zk-prefixer:新規ユニークノートの作成": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
     "Logs/2025-04-29.md",
-    "_Templates/_Laws-template.md",
-    "_Templates/_!Resourse_PDF_template.md",
-    "_Templates/_Experiment-template.md",
-    "_Templates/_!Resourse_Paper_template.md",
-    "_Templates/__Logs-template.md",
-    "_Templates/__People_template.md",
     "巡回置換と互換.md",
-    "Notes/互換.md",
-    "同値関係.md",
-    "体.md",
-    "位相.md",
-    "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md",
-    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
-    "Notes/アーベル群.md",
-    "Notes/演算.md",
-    "Notes/写像.md",
-    "Notes/グルッペン・ペスト.md",
-    "Notes/位数.md",
-    "Notes/圏.md",
-    "Logs/2025-04-24.md",
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
     "_Resources_WebPage/数学基礎論サマースクール.md",
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
+    "Notes/圏.md",
     "_Resources_Book/巽流体力学.md",
+    "_Templates/_Experiment-template.md",
+    "Notes/ベクトル空間.md",
+    "Logs/2025-04-26.md",
+    "Logs/2025-04-27.md",
+    "Logs/2025-04-28.md",
+    "Logs/2025-04-18.md",
+    "Logs/2025-04-19.md",
+    "Logs/2025-04-20.md",
+    "Logs/2025-04-21.md",
+    "Logs/2025-04-22.md",
+    "Logs/2025-04-23.md",
+    "Logs/2025-04-24.md",
+    "Logs/2025-04-25.md",
+    "_Templates/__Logs-template.md",
+    "Notes/距離空間.md",
+    "Notes/距離.md",
+    "位相.md",
+    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",
     "_Resources",

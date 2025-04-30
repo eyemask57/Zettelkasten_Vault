@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-04-29"
             }
+          },
+          {
+            "id": "0b4edd3030ab88af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,9 +244,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b88c9571e2a91fdb",
+  "active": "0b4edd3030ab88af",
   "lastOpenFiles": [
     "Logs/2025-04-29.md",
+    "conflict-files-obsidian-git.md",
+    "Logs/2025-04-30.md",
     "巡回置換と互換.md",
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
@@ -245,8 +272,6 @@
     "Logs/2025-04-25.md",
     "_Templates/__Logs-template.md",
     "Notes/距離空間.md",
-    "Notes/距離.md",
-    "位相.md",
     "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",

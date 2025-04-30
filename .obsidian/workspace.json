@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-23.md",
+                "file": "Logs/2025-04-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "2025-04-30"
             }
           }
         ]
@@ -222,6 +222,10 @@
   "active": "b88c9571e2a91fdb",
   "lastOpenFiles": [
     "Logs/2025-04-29.md",
+    "Logs/2025-04-30.md",
+    "Logs/Logs_ARCHIVE",
+    "Logs/Logs_ARCHIVE/Logs_2025-04",
+    "Logs/2025-04-23.md",
     "_Templates/_Laws-template.md",
     "_Templates/_!Resourse_PDF_template.md",
     "_Templates/_Experiment-template.md",
@@ -245,9 +249,6 @@
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
     "_Resources_WebPage/数学基礎論サマースクール.md",
-    "_Resources_Book/群と物理.md",
-    "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "_Resources_Book/巽流体力学.md",
     "People",
     "HUB",
     "_Resources",
@@ -255,8 +256,6 @@
     "Textbook/Round-robin/phys-解析力学",
     "_Resources_PDF",
     "_Resources_WebPage",
-    "Textbook/my_Text",
-    "Textbook/Round-robin",
     "無題のファイル.canvas"
   ]
 }

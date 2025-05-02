@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cauchy-Schwarzの不等式.md",
+                "file": "Logs/2025-05-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cauchy-Schwarzの不等式"
+              "title": "2025-05-03"
             }
           }
         ],
@@ -292,48 +292,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "ddf3d28378dd527e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "65bf4a4115539457",
-        "type": "window",
-        "children": [
-          {
-            "id": "be5193364a1e87cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "30d121ffef43459e",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "グラフビュー"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1417,
-        "y": 56,
-        "width": 1366,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e866aa62f35f2bd9",
   "lastOpenFiles": [
     "Logs/2025-05-02.md",
+    "Logs/2025-05-03.md",
+    "Cauchy-Schwarzの不等式.md",
     "Logs/2025-04-30.md",
     "Logs/2025-05-01.md",
     "ε-近傍.md",
-    "Cauchy-Schwarzの不等式.md",
     "Euclid距離.md",
     "Euclid空間.md",
     "Notes/距離.md",
@@ -355,7 +321,6 @@
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
     "_Resources_Book/巽流体力学.md",
-    "_Templates/_Experiment-template.md",
     "People",
     "HUB",
     "_Resources",

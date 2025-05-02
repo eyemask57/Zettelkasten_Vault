@@ -285,6 +285,7 @@ Subtype
 Smt
 SI
 Sq
+Schwarz
 Examples
 EXP
 Experiment
@@ -331,6 +332,8 @@ EQZ
 Etg
 EOF
 Euclidian
+Euclid
+Euclidean
 Related
 Raw
 RFB
@@ -630,6 +633,7 @@ pxR
 pNNV
 proof
 permutation
+point
 board
 by
 be
@@ -670,6 +674,7 @@ bT
 bTV
 bg
 bA
+ball
 settings
 ss
 strongly
@@ -721,6 +726,7 @@ sv
 sI
 startxref
 symmetric
+set
 Vauls
 Validity
 Vi
@@ -914,6 +920,8 @@ tl
 transposition
 transpositions
 triangle
+topology
+topological
 date
 done
 do
@@ -999,6 +1007,7 @@ nc
 nL
 ni
 nhTEwOsr
+neighborhood
 YYYY
 YYYYMMDDHHmmss
 Ye
@@ -1112,6 +1121,7 @@ MFII
 MOw
 MIEUA
 Manhattan
+Markdown
 mm
 mode
 main
@@ -1347,6 +1357,7 @@ CZ
 CJZ
 CM
 Chromatography
+Cauchy
 vs
 viewing
 vector
@@ -1869,6 +1880,7 @@ cvxg
 cb
 cycle
 chromatography
+collection
 will
 workspace
 with
@@ -1949,6 +1961,7 @@ oZ
 oq
 oQ
 ohkj
+open
 json
 jd
 jJ

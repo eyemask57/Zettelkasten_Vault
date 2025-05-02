@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logs/2025-04-29.md",
+                "file": "ε-近傍.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-29"
+              "title": "ε-近傍"
             }
           },
           {
-            "id": "0b4edd3030ab88af",
+            "id": "253b1c7270cd0fd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "開集合.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "開集合"
+            }
+          },
+          {
+            "id": "d794f330c562c0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/2025-05-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-02"
+            }
+          },
+          {
+            "id": "e866aa62f35f2bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cauchy-Schwarzの不等式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cauchy-Schwarzの不等式"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,35 +292,70 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b4edd3030ab88af",
+  "floating": {
+    "id": "ddf3d28378dd527e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "65bf4a4115539457",
+        "type": "window",
+        "children": [
+          {
+            "id": "be5193364a1e87cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "30d121ffef43459e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "グラフビュー"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1417,
+        "y": 56,
+        "width": 1366,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e866aa62f35f2bd9",
   "lastOpenFiles": [
+    "Logs/2025-05-02.md",
+    "Logs/2025-04-30.md",
+    "Logs/2025-05-01.md",
+    "ε-近傍.md",
+    "Cauchy-Schwarzの不等式.md",
+    "Euclid距離.md",
+    "Euclid空間.md",
+    "Notes/距離.md",
+    "Notes/3次元ベクトルの分解.md",
+    "Notes/圏.md",
+    "開集合.md",
+    "位相.md",
+    "巡回置換と互換.md",
+    "Notes/写像.md",
+    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
+    "_Resources_Book/松坂 集合・位相入門.md",
+    "Notes/距離空間.md",
+    "自然数.md",
     "Logs/2025-04-29.md",
     "conflict-files-obsidian-git.md",
-    "Logs/2025-04-30.md",
-    "巡回置換と互換.md",
     "_Templates/Definition-template.md",
     "Lagrange式時間微分.md",
     "_Resources_WebPage/数学基礎論サマースクール.md",
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "Notes/圏.md",
     "_Resources_Book/巽流体力学.md",
     "_Templates/_Experiment-template.md",
-    "Notes/ベクトル空間.md",
-    "Logs/2025-04-26.md",
-    "Logs/2025-04-27.md",
-    "Logs/2025-04-28.md",
-    "Logs/2025-04-18.md",
-    "Logs/2025-04-19.md",
-    "Logs/2025-04-20.md",
-    "Logs/2025-04-21.md",
-    "Logs/2025-04-22.md",
-    "Logs/2025-04-23.md",
-    "Logs/2025-04-24.md",
-    "Logs/2025-04-25.md",
-    "_Templates/__Logs-template.md",
-    "Notes/距離空間.md",
-    "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf",
     "People",
     "HUB",
     "_Resources",

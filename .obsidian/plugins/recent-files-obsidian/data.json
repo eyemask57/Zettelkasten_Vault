@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-04-29",
-      "path": "Logs/2025-04-29.md"
+      "basename": "Cauchy-Schwarzの不等式",
+      "path": "Cauchy-Schwarzの不等式.md"
     },
     {
-      "basename": "2025-04-23",
-      "path": "Logs/2025-04-23.md"
+      "basename": "2025-05-02",
+      "path": "Logs/2025-05-02.md"
     },
     {
-      "basename": "_Laws-template",
-      "path": "_Templates/_Laws-template.md"
+      "basename": "2025-04-30",
+      "path": "Logs/2025-04-30.md"
     },
     {
-      "basename": "_!Resourse_PDF_template",
-      "path": "_Templates/_!Resourse_PDF_template.md"
+      "basename": "2025-05-01",
+      "path": "Logs/2025-05-01.md"
     },
     {
-      "basename": "_Experiment-template",
-      "path": "_Templates/_Experiment-template.md"
+      "basename": "ε-近傍",
+      "path": "ε-近傍.md"
     },
     {
-      "basename": "_!Resourse_Paper_template",
-      "path": "_Templates/_!Resourse_Paper_template.md"
+      "basename": "Euclid距離",
+      "path": "Euclid距離.md"
     },
     {
-      "basename": "__Logs-template",
-      "path": "_Templates/__Logs-template.md"
+      "basename": "Euclid空間",
+      "path": "Euclid空間.md"
     },
     {
-      "basename": "__People_template",
-      "path": "_Templates/__People_template.md"
+      "basename": "距離",
+      "path": "Notes/距離.md"
+    },
+    {
+      "basename": "3次元ベクトルの分解",
+      "path": "Notes/3次元ベクトルの分解.md"
+    },
+    {
+      "basename": "圏",
+      "path": "Notes/圏.md"
+    },
+    {
+      "basename": "開集合",
+      "path": "開集合.md"
+    },
+    {
+      "basename": "位相",
+      "path": "位相.md"
     },
     {
       "basename": "巡回置換と互換",
       "path": "巡回置換と互換.md"
+    },
+    {
+      "basename": "写像",
+      "path": "Notes/写像.md"
+    },
+    {
+      "basename": "松坂 集合・位相入門",
+      "path": "_Resources_Book/松坂 集合・位相入門.md"
+    },
+    {
+      "basename": "距離空間",
+      "path": "Notes/距離空間.md"
+    },
+    {
+      "basename": "自然数",
+      "path": "自然数.md"
     },
     {
       "basename": "互換",
@@ -49,40 +81,8 @@
       "path": "体.md"
     },
     {
-      "basename": "位相",
-      "path": "位相.md"
-    },
-    {
-      "basename": "MFSS2019_集合・濃度・順序数・基数",
-      "path": "_Resources_PDF/MFSS2019_集合・濃度・順序数・基数.md"
-    },
-    {
-      "basename": "PDF-集合・濃度・順序数・基数",
-      "path": "_Resources_PDF/PDF-集合・濃度・順序数・基数.pdf"
-    },
-    {
       "basename": "アーベル群",
       "path": "Notes/アーベル群.md"
-    },
-    {
-      "basename": "演算",
-      "path": "Notes/演算.md"
-    },
-    {
-      "basename": "写像",
-      "path": "Notes/写像.md"
-    },
-    {
-      "basename": "グルッペン・ペスト",
-      "path": "Notes/グルッペン・ペスト.md"
-    },
-    {
-      "basename": "位数",
-      "path": "Notes/位数.md"
-    },
-    {
-      "basename": "圏",
-      "path": "Notes/圏.md"
     }
   ],
   "omittedPaths": [],

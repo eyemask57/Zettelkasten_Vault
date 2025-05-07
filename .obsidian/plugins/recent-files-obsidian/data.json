@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "開集合",
+      "path": "開集合.md"
+    },
+    {
+      "basename": "ε-近傍",
+      "path": "ε-近傍.md"
+    },
+    {
+      "basename": "計算トポロジー入門",
+      "path": "_Resources_Book/計算トポロジー入門.md"
+    },
+    {
       "basename": "2025-05-03",
       "path": "Logs/2025-05-03.md"
     },
@@ -21,10 +33,6 @@
       "path": "Logs/2025-05-01.md"
     },
     {
-      "basename": "ε-近傍",
-      "path": "ε-近傍.md"
-    },
-    {
       "basename": "Euclid距離",
       "path": "Euclid距離.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "圏",
       "path": "Notes/圏.md"
-    },
-    {
-      "basename": "開集合",
-      "path": "開集合.md"
     },
     {
       "basename": "位相",

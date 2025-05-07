@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b88c9571e2a91fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ε-近傍.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ε-近傍"
-            }
-          },
-          {
-            "id": "253b1c7270cd0fd0",
+            "id": "65abb5107ee510d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,57 +30,8 @@
               "icon": "lucide-file",
               "title": "開集合"
             }
-          },
-          {
-            "id": "d794f330c562c0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-05-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-02"
-            }
-          },
-          {
-            "id": "e866aa62f35f2bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logs/2025-05-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-03"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,20 +219,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e866aa62f35f2bd9",
+  "active": "65abb5107ee510d0",
   "lastOpenFiles": [
-    "Logs/2025-05-02.md",
+    "ε-近傍.md",
+    "開集合.md",
+    "_Resources_Book/計算トポロジー入門.md",
     "Logs/2025-05-03.md",
+    "Logs/2025-05-02.md",
     "Cauchy-Schwarzの不等式.md",
     "Logs/2025-04-30.md",
     "Logs/2025-05-01.md",
-    "ε-近傍.md",
     "Euclid距離.md",
     "Euclid空間.md",
     "Notes/距離.md",
     "Notes/3次元ベクトルの分解.md",
     "Notes/圏.md",
-    "開集合.md",
     "位相.md",
     "巡回置換と互換.md",
     "Notes/写像.md",
@@ -320,7 +248,6 @@
     "_Resources_WebPage/数学基礎論サマースクール.md",
     "_Resources_Book/群と物理.md",
     "Notes/非圧縮性流れのNavier-Stokes方程式.md",
-    "_Resources_Book/巽流体力学.md",
     "People",
     "HUB",
     "_Resources",
